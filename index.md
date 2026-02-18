@@ -11,11 +11,11 @@ nav_order: 1
 
 ---
 
-## Arquitectura de Marca
+## Líneas de trabajo
 
 ### El Arkhé: Talleres Multi-Omics
 
-Línea formativa especializada dirigida a estudiantes de educación superior, bioinformáticos y profesionales que inician o consolidan su trayectoria en genética molecular.
+Línea formativa especializada dirigida a estudiantes de educación superior, bioinformáticos y profesionales que inician o consolidan su trayectoria en especialidades afines a la biologia molecular.
 
 Los talleres se enfocan en genómica, transcriptómica y epigenética, combinando fundamentos conceptuales con herramientas analíticas prácticas, en distintos niveles de especialización.
 
