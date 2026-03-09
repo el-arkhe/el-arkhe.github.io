@@ -10,7 +10,7 @@ Para solicitar una edición institucional del taller o recibir una propuesta ada
 
 ✉️ **elarkhe@gmail.com**
 
-Sugerido incluir:
+Incluir en su correo:
 - institución / unidad académica
 - modalidad (presencial / online)
 - fechas tentativas

@@ -13,10 +13,10 @@ tac: false
 </p>
 -->
 
-**Bienvenido a El Árkhe**
+### Bienvenid@ a El Árkhe
 
 
-**El Arkhé** es una plataforma formativa y cultural dedicada a las ciencias ómicas desde múltiples lenguajes. Integra formación especializada, soporte técnico y producción cultural, articulando educación, arte y pensamiento científico como un mismo territorio.
+**El Árkhe** es una plataforma formativa y cultural dedicada a las ciencias ómicas desde múltiples lenguajes. Integra formación especializada, soporte técnico y producción cultural, articulando educación, arte y pensamiento científico como un mismo territorio.
 
 ---
 
@@ -40,11 +40,14 @@ Se concibe como una línea de producción cultural en desarrollo, con proyecció
 
 ---
 
-Este sitio reúne información sobre las líneas formativas activas y los proyectos en desarrollo. Se invita a recorrer sus secciones para conocer con mayor detalle la propuesta de El Arkhé.
+Este sitio reúne información sobre las líneas formativas activas y los proyectos en desarrollo. Se les invita a recorrer sus secciones para conocer con mayor detalle la propuesta de *El Arkhé*.
+
+Gracias por visitarnos
+
+*Cynthia S. Cardinault, PhD* \
+🧬 Fundadora de *El Arkhe* Multiomics
 
 
-Coordinación general:
-Cynthia S. Cardinault, PhD
 México  
 ✉️ [elarkhe@gmail.com](mailto:elarkhe@gmail.com)
 
