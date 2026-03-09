@@ -9,8 +9,9 @@ permalink: /talleres/terminos_admon/
 ### Facturación
 
 La facturación se acordará entre las partes conforme al esquema definido en el convenio o acuerdo institucional correspondiente.  
-El Arkhe podrá emitir comprobantes fiscales de acuerdo con la normativa aplicable en México o según el mecanismo administrativo previamente establecido con la institución colaboradora.
+El Árkhe podrá emitir comprobantes fiscales de acuerdo con la normativa aplicable en México o según el mecanismo administrativo previamente establecido con la institución colaboradora.
 
+---
 
 ### Coordinación operativa
 

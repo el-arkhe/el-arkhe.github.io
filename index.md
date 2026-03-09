@@ -4,15 +4,15 @@ title: El Arkhe
 nav_order: 1
 tac: false
 ---
-<!--
-<p align="center">
-[![Official Site](https://img.shields.io/badge/Official%20Site-El%20Arkhe-0A66C2?style=for-the-badge)](https://elarkhe.github.io)
-[![GitHub Pages](https://img.shields.io/badge/Published%20with-GitHub%20Pages-222222?style=for-the-badge&logo=github)](https://elarkhe.github.io)
-[![Jekyll](https://img.shields.io/badge/Powered%20by-Jekyll-CC0000?style=for-the-badge&logo=jekyll)](https://jekyllrb.com/)
-[![Just the Docs](https://img.shields.io/badge/Documentation-Just%20the%20Docs-5C4EE5?style=for-the-badge)](https://just-the-docs.com/)
-</p>
--->
 
+<p align="center">
+  <img src="https://img.shields.io/badge/el--arkhe-bioinformatics%20%7C%20education%20%7C%20storytelling-0A7F8F?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/talleres--multiomics-training%20program-1ABC9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/cuentos--moleculares-science%20communication-E67E22?style=for-the-badge" />
+</p>
 ## Bienvenid@ a El Árkhe
 
 
@@ -40,7 +40,7 @@ Se concibe como una línea de producción cultural en desarrollo, con proyecció
 
 ---
 
-Este sitio reúne información sobre las líneas formativas activas y los proyectos en desarrollo. Se les invita a recorrer sus secciones para conocer con mayor detalle la propuesta de *El Arkhé*.
+Este sitio reúne información sobre las líneas formativas activas y los proyectos en desarrollo. Se les invita a recorrer sus secciones para conocer con mayor detalle nuestra propuesta.
 
 Gracias por visitarnos
 

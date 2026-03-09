@@ -1,0 +1,121 @@
+{"0": {
+    "doc": "Contacto",
+    "title": "Contacto",
+    "content": "Si tu institución o laboratorio está interesada en organizar una edición del taller o deseas explorar una propuesta formativa adaptada a tus necesidades, estaremos encantados de conversar. ✉️ elarkhe@gmail.com . Para orientarnos mejor en la preparación de una posible propuesta, puedes incluir en tu mensaje: . | institución, laboratorio o unidad académica | modalidad preferida (presencial / online) | fechas tentativas | perfil del grupo participante (licenciatura, posgrado, personal técnico o investigación) | área de investigación | . También puedes escribirnos si tienes preguntas sobre el contenido de los talleres, posibles colaboraciones o iniciativas académicas relacionadas. Gracias por visitarnos . Cynthia S. Cardinault, PhD 🧬 El Arkhe Multiomics . © 2026 El Arkhé · México . ",
+    "url": "/talleres/contacto/",
+    
+    "relUrl": "/talleres/contacto/"
+  },"1": {
+    "doc": "El Arkhe",
+    "title": "Bienvenid@ a El Árkhe",
+    "content": "El Árkhe es una plataforma formativa y cultural dedicada a las ciencias ómicas desde múltiples lenguajes. Integra formación especializada, soporte técnico y producción cultural, articulando educación, arte y pensamiento científico como un mismo territorio. ",
+    "url": "/#bienvenid-a-el-%C3%A1rkhe",
+    
+    "relUrl": "/#bienvenid-a-el-árkhe"
+  },"2": {
+    "doc": "El Arkhe",
+    "title": "Líneas de trabajo",
+    "content": "El Arkhé: Talleres Multi-Omics . Línea formativa especializada dirigida a estudiantes de educación superior, bioinformáticos y profesionales que inician o consolidan su trayectoria en especialidades afines a la biologia molecular. Los talleres se enfocan en genómica, transcriptómica y epigenética, combinando fundamentos conceptuales con herramientas analíticas prácticas, en distintos niveles de especialización. El Arkhé: Cuentos Moleculares . Proyecto artístico en incubación orientado al público general. Explora el uso de cuentos cortos y ficción como medio narrativo para incorporar vocabulario y nociones de las ciencias ómicas como recurso estético, no como contenido explicativo. Su propósito no es enseñar ni evaluar conocimientos científicos, sino ofrecer experiencias narrativas accesibles para quienes disfrutan de las historias. Se concibe como una línea de producción cultural en desarrollo, con proyección hacia espacios educativos y culturales, así como plataformas digitales. Este sitio reúne información sobre las líneas formativas activas y los proyectos en desarrollo. Se les invita a recorrer sus secciones para conocer con mayor detalle nuestra propuesta. Gracias por visitarnos . Cynthia S. Cardinault, PhD 🧬 Fundadora de El Arkhe Multiomics . México ✉️ elarkhe@gmail.com . © 2026 El Arkhé · México . ",
+    "url": "/#l%C3%ADneas-de-trabajo",
+    
+    "relUrl": "/#líneas-de-trabajo"
+  },"3": {
+    "doc": "El Arkhe",
+    "title": "El Arkhe",
+    "content": ". ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"4": {
+    "doc": "Talleres Multiomics",
+    "title": "Talleres Multiomics",
+    "content": "Talleres Multiomics . Propuestas formativas centradas en análisis de datos multi-ómicos, impartidas en colaboración con instituciones educativas y especialistas asociados. Navegación rápida . | Índice de talleres | Modelo de enseñanza | Términos administrativos | Contacto | . ",
+    "url": "/talleres/",
+    
+    "relUrl": "/talleres/"
+  },"5": {
+    "doc": "Índice talleres",
+    "title": "Índice talleres",
+    "content": "Explora nuestra propuesta formativa en análisis de multi-omicas. scRNA-seq — Activo . Introducción al análisis de expresión génica a nivel de célula individual. Visítanos en GitHub . scATAC-seq — En desarrollo . Introducción al análisis de accesibilidad de cromatina para el estudio de regulación génica. Ver ficha del taller . EN DESARROLLO . Multiome scRNA-seq + scATAC-seq — En desarrollo . Introducción a la integración de datos transcriptómicos y epigenómicos a nivel de célula individual. Ver ficha del taller . EN DESARROLLO . ",
+    "url": "/talleres/indice_talleres/",
+    
+    "relUrl": "/talleres/indice_talleres/"
+  },"6": {
+    "doc": "Modelo de Enseñanza",
+    "title": "Modelo de enseñanza",
+    "content": "Los Talleres Multiomics de El Arkhe constituyen una iniciativa formativa especializada orientada al análisis de datos de multi ómicas generados mediante tecnologías modernas de secuenciación de alto rendimiento. Estos talleres se imparten en colaboración con instituciones académicas y especialistas asociados, con el propósito de ofrecer experiencias formativas rigurosas y actualizadas. El enfoque pedagógico prioriza la comprensión conceptual de los principios que sustentan los métodos analíticos, evitando limitar la formación a la mera ejecución técnica de herramientas. De esta manera, los participantes desarrollan criterios sólidos para interpretar resultados, evaluar metodologías y adaptar flujos de análisis a distintos contextos experimentales. El contenido de los talleres se fundamenta en literatura científica contemporánea, en metodologías analíticas reproducibles y en buenas prácticas de análisis computacional. Este enfoque busca fortalecer la capacidad crítica de los participantes frente al rápido desarrollo de las tecnologías genómicas y de los métodos de análisis asociados. Los talleres se ofrecen en español e inglés, con el objetivo de ampliar el acceso a formación especializada de alta calidad y fomentar el intercambio científico en diálogo con comunidades académicas internacionales. ",
+    "url": "/talleres/modelo_ensenanza/#modelo-de-ense%C3%B1anza",
+    
+    "relUrl": "/talleres/modelo_ensenanza/#modelo-de-enseñanza"
+  },"7": {
+    "doc": "Modelo de Enseñanza",
+    "title": "Estructura académica de los talleres",
+    "content": "Los talleres están diseñados como una introducción estructurada al análisis de datos de célula única, incluyendo transcriptómica de célula individual (scRNA-seq), accesibilidad de cromatina (scATAC-seq) y, cuando corresponde, su integración con transcriptómica espacial y otros enfoques multi-ómicos. Cada taller combina fundamentos conceptuales con práctica analítica aplicada, permitiendo a los participantes comprender tanto la lógica metodológica como la implementación práctica de los principales flujos de análisis utilizados en investigación contemporánea. En términos generales, los talleres incluyen: . | introducción a los principios conceptuales del análisis de datos multi-ómicos | recorrido completo del flujo estándar de análisis de datos de célula única | exploración de herramientas analíticas actuales y metodologías emergentes | ejercicios prácticos guiados basados en datasets reales | aplicación de buenas prácticas computacionales | interpretación biológica de resultados en el contexto de preguntas experimentales | discusión crítica apoyada en literatura científica reciente | . Las sesiones combinan exposiciones conceptuales con trabajo práctico en vivo. Los participantes reciben material descargable y acceso a recursos digitales que facilitan la continuidad del aprendizaje después del taller. Cuando es posible, los ejercicios se desarrollan utilizando datasets adaptados al contexto científico del grupo participante, lo cuál nos hace una opción única en este segmento. El diseño pedagógico prioriza el uso de herramientas open-source y metodologías reproducibles, así como estrategias de análisis adaptadas a escenarios donde las limitaciones de infraestructura computacional pueden representar un desafío operativo. Duración: 4–5 días (20–24 horas) Modalidad: presencial u online Idioma: español / inglés Formato: grupos reducidos con soporte técnico asistido . ",
+    "url": "/talleres/modelo_ensenanza/#estructura-acad%C3%A9mica-de-los-talleres",
+    
+    "relUrl": "/talleres/modelo_ensenanza/#estructura-académica-de-los-talleres"
+  },"8": {
+    "doc": "Modelo de Enseñanza",
+    "title": "Perfil de participantes",
+    "content": "Los talleres están dirigidos a estudiantes, investigadores y profesionales provenientes de áreas como biología, medicina, bioinformática, ciencias computacionales u otras disciplinas afines que buscan adquirir una introducción estructurada al análisis de datos genómicos de alto rendimiento. Se recomienda que los participantes cuenten con conocimientos básicos de biología molecular y genética, aunque no es necesario tener experiencia previa en análisis bioinformático avanzado. Los talleres están diseñados para facilitar una transición progresiva hacia la comprensión de flujos analíticos complejos. ",
+    "url": "/talleres/modelo_ensenanza/#perfil-de-participantes",
+    
+    "relUrl": "/talleres/modelo_ensenanza/#perfil-de-participantes"
+  },"9": {
+    "doc": "Modelo de Enseñanza",
+    "title": "Modelo de Enseñanza",
+    "content": " ",
+    "url": "/talleres/modelo_ensenanza/",
+    
+    "relUrl": "/talleres/modelo_ensenanza/"
+  },"10": {
+    "doc": "scATAC-seq",
+    "title": "Taller scATAC-seq",
+    "content": "Tech Stack . EN DESARROLLO . Estudio de accesibilidad de cromatina para identificar regiones regulatorias activas y comprender mecanismos de regulación génica. Duración recomendada: 4-5 días (20–24 horas) Modalidad: presencial u online Idioma: español Formato: grupos reducidos con soporte técnico asistido . Contacto: elarkhe@gmail.com . ",
+    "url": "/talleres/developing/scatac_seq/#taller-scatac-seq",
+    
+    "relUrl": "/talleres/developing/scatac_seq/#taller-scatac-seq"
+  },"11": {
+    "doc": "scATAC-seq",
+    "title": "scATAC-seq",
+    "content": " ",
+    "url": "/talleres/developing/scatac_seq/",
+    
+    "relUrl": "/talleres/developing/scatac_seq/"
+  },"12": {
+    "doc": "Multiome scRNA+scATAC-seq",
+    "title": "Taller Multiome (scRNA-seq + scATAC-seq)",
+    "content": "Tech Stack . EN DESARROLLO . Integración simultánea de datos transcriptómicos y epigenómicos a nivel celular para relacionar programas de expresión génica con su contexto regulatorio. Duración recomendada: 4-5 días (20–24 horas) Modalidad: presencial u online Idioma: español Formato: grupos reducidos con soporte técnico asistido . Contacto: elarkhe@gmail.com . ",
+    "url": "/talleres/developing/scrna_atac_seq/#taller-multiome-scrna-seq--scatac-seq",
+    
+    "relUrl": "/talleres/developing/scrna_atac_seq/#taller-multiome-scrna-seq--scatac-seq"
+  },"13": {
+    "doc": "Multiome scRNA+scATAC-seq",
+    "title": "Multiome scRNA+scATAC-seq",
+    "content": " ",
+    "url": "/talleres/developing/scrna_atac_seq/",
+    
+    "relUrl": "/talleres/developing/scrna_atac_seq/"
+  },"14": {
+    "doc": "scRNA-seq",
+    "title": "Taller scRNA-seq",
+    "content": "Tech Stack . Análisis de expresión génica a nivel de célula individual para explorar diversidad celular, estados transcripcionales y organización funcional de tejidos complejos. Duración recomendada: 4-5 días (20–24 horas) Modalidad: presencial u online Idioma: español Formato: grupos reducidos con soporte técnico asistido . Visítanos en GitHub . &lt;/a&gt; . Contacto: elarkhe@gmail.com . ",
+    "url": "/talleres/developing/scrna_seq/#taller-scrna-seq",
+    
+    "relUrl": "/talleres/developing/scrna_seq/#taller-scrna-seq"
+  },"15": {
+    "doc": "scRNA-seq",
+    "title": "scRNA-seq",
+    "content": " ",
+    "url": "/talleres/developing/scrna_seq/",
+    
+    "relUrl": "/talleres/developing/scrna_seq/"
+  },"16": {
+    "doc": "Términos Administrativos",
+    "title": "Términos Administrativos",
+    "content": "Facturación . La facturación se acordará entre las partes conforme al esquema definido en el convenio o acuerdo institucional correspondiente. El Árkhe podrá emitir comprobantes fiscales de acuerdo con la normativa aplicable en México o según el mecanismo administrativo previamente establecido con la institución colaboradora. Coordinación operativa . Los detalles logísticos —incluyendo modalidad, calendario, requerimientos técnicos, infraestructura computacional y número de participantes— serán definidos conjuntamente entre El Arkhe y la institución colaboradora antes de la confirmación oficial del taller. Cualquier ajuste posterior deberá ser consensuado por ambas partes. ",
+    "url": "/talleres/terminos_admon/",
+    
+    "relUrl": "/talleres/terminos_admon/"
+  }
+}
