@@ -13,7 +13,7 @@ tac: false
 </p>
 -->
 
-### Bienvenid@ a El Árkhe
+## Bienvenid@ a El Árkhe
 
 
 **El Árkhe** es una plataforma formativa y cultural dedicada a las ciencias ómicas desde múltiples lenguajes. Integra formación especializada, soporte técnico y producción cultural, articulando educación, arte y pensamiento científico como un mismo territorio.
