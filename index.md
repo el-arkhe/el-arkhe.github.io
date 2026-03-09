@@ -52,7 +52,7 @@ México
     <img
       src="https://clustrmaps.com/map_v2.png?d=KL_rxoyvwLLAV8IA3mE1zgoA43OAbDIlda4lFKHNGRU&cl=ffffff"
       alt="Visitor map"
-      style="width: 420px; max-width: 90%; height: auto; opacity: 0.85;"
+      style="width: 320px; max-width: 90%; height: auto; opacity: 0.85;"
     />
   </a>
 </div>
