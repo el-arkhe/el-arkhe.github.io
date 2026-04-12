@@ -27,7 +27,7 @@ Introducción al análisis de expresión génica a nivel de célula individual.
 
 Conoce nuestro enfoque  pedagógico para el entrenamiento en análisis de datos, y explora nuestra curaduría de datasets para aprendizaje práctico: 
 
-- [Selección estratégica de datos para aprendizaje en scRNA-seq](/talleres/modelo_ensenanza/BDs_scRNAseq/)
+- [Selección estratégica de datos para aprendizaje en scRNA-seq](../talleres/modelo_ensenanza/BDs_scRNAseq.md)
 - [Ver curaduria de datos](https://github.com/el-arkhe/scrnaseq-workshop/blob/28c6f97f7d8475dccc95489c478e7b3db399580d/data/README.md)
 
 ---
