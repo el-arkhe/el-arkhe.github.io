@@ -25,6 +25,10 @@ Introducción al análisis de expresión génica a nivel de célula individual.
   </a>
 </p>
 
+Conoce nuestro enfoque pedagógico para el entrenamiento en análisis de datos ómicos, y explora nuestra curaduría de datasets para aprendizaje práctico: 
+[**Ver curaduria de datos**](/talleres/indice_talleres_blogs/BDs_scRNAseq.md)
+
+
 ---
 
 ### scATAC-seq — En desarrollo
