@@ -61,7 +61,7 @@ Este enfoque permite transitar de ejecutar *workflows* a entender profundamente 
 
 Más que una comparación técnica, la siguiente tabla funciona para ilustrar una guía pedagógica estudiada para seleccionar datos según el objetivo de aprendizaje:
 
-| Datos *10x Genomics* | Datos *Human Brain*<br> (Lieber Institute) | Datos de planta *Arabidopsis* |
+| Mammalia<br>10x Genomics | Human Brain<br>Lieber Institute | Arabidopsis<br>plantScGRN |
 | --- | --- | --- |
 | Marcadores bien definidos           | Marcadores menos evidentes                | Marcadores limitados y emergentes                                  |
 | Tipos celulares del sistema inmune  | Tipos celulares específicos de cerebro    | Identidades celulares definidas por tejido (root, leaf, vascular)  |
@@ -118,22 +118,35 @@ Es interpretar datos, formular preguntas y generar conocimiento.
 
 ## ¿Te interesa este enfoque?
 
-¿Te gustaría colaborar, aportar datasets o conocer más sobre nuestra propuesta formativa?  
+¿Te gustaría colaborar, aportar datos o conocer más sobre nuestra propuesta formativa?  
 📩 Escríbenos a [elarkhe@gmail.com](mailto:elarkhe@gmail.com)
 
-Explora nuestros talleres de análisis de datos ómicos:  
-🔗 [Índice de talleres](/talleres/indice_talleres/)
+Explora nuestros talleres de análisis de datos ómicos: [Índice de talleres](/talleres/indice_talleres/)
 
-¿Quieres tomar la próxima edición del taller de scRNA-seq?  
+Ver la curaduría de datos:
+[Explorar datos](https://github.com/el-arkhe/scrnaseq-workshop/blob/main/data/README.md)
+
+---
+
+## ¿Te interesa la próxima edición del taller de scRNA-seq?
+
+Registrate para recibir más información sobre la próxima edición del taller, incluyendo fechas, temario y detalles de inscripción.
+
 👉 [**Registrarse al taller**](/talleres/registro/)
 
 ---
 
-## Recursos y datasets
+## Referencias y recursos
 
-¿Quieres explorar directamente la curaduría de datos utilizada en el taller?
+- Transcriptomic Analysis of the Human Habenula in Schizophrenia  
+  American Journal of Psychiatry  
+  https://psychiatryonline.org/doi/10.1176/appi.ajp.20240776  
 
-🔗 [Explorar datasets en GitHub](https://github.com/el-arkhe/scrnaseq-workshop/blob/main/data/README.md)
+- Supporting open-access version (PMC)  
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11119547/  
+
+- 10x Genomics Datasets Repository  
+  https://www.10xgenomics.com/datasets  
 
 ---
 
