@@ -1,116 +1,214 @@
 {"0": {
+    "doc": "Selección de datos scRNA-seq",
+    "title": "El entrenamiento y la selección estratégica de datos en scRNA-seq",
+    "content": "El entrenamiento en análisis de datos ómicos como scRNA-seq se enfoca principalmente en herramientas, pipelines y algoritmos. Sin embargo, uno de los factores más determinantes en el aprendizaje es la selección de los datos con los que se entrena. Antes de escribir una sola línea de código, la calidad de la experiencia de aprendizaje ya está siendo definida por el tipo de datos elegidos. ",
+    "url": "/talleres/modelo_ensenanza/BDs_scRNAseq#el-entrenamiento-y-la-selecci%C3%B3n-estrat%C3%A9gica-de-datos-en-scrna-seq",
+    
+    "relUrl": "/talleres/modelo_ensenanza/BDs_scRNAseq#el-entrenamiento-y-la-selección-estratégica-de-datos-en-scrna-seq"
+  },"1": {
+    "doc": "Selección de datos scRNA-seq",
+    "title": "El diseño y la pedagogía importan",
+    "content": "El diseño instruccional y la selección adecuada de datos no solo transmiten conocimiento técnico, sino facilitan la inmersión en el proceso de aprendizaje. Cuando los contenidos, ejercicios y datos están alineados con el contexto del estudiante: . | Se reduce la fricción inicial | Se incrementa la motivación | Se favorece la retención | . En el aprendizaje de datos ómicos, esto significa que no basta con usar “cualquier conjunto de datos público”. Es necesario elegirlos estratégicamente. ",
+    "url": "/talleres/modelo_ensenanza/BDs_scRNAseq#el-dise%C3%B1o-y-la-pedagog%C3%ADa-importan",
+    
+    "relUrl": "/talleres/modelo_ensenanza/BDs_scRNAseq#el-diseño-y-la-pedagogía-importan"
+  },"2": {
+    "doc": "Selección de datos scRNA-seq",
+    "title": "Rol crítico de la selección de datos scRNA-seq en el aprendizaje",
+    "content": "Recomendamos utilizar datos específicos alineados, en la medida de lo posible, a: . | Intereses de investigación del grupo | Nivel técnico de los participantes | Objetivos del análisis (flujo completo vs flujos específicos avanzados) | . “Los datos bien elegidos permiten construir criterio analítico” . ",
+    "url": "/talleres/modelo_ensenanza/BDs_scRNAseq#rol-cr%C3%ADtico-de-la-selecci%C3%B3n-de-datos-scrna-seq-en-el-aprendizaje",
+    
+    "relUrl": "/talleres/modelo_ensenanza/BDs_scRNAseq#rol-crítico-de-la-selección-de-datos-scrna-seq-en-el-aprendizaje"
+  },"3": {
+    "doc": "Selección de datos scRNA-seq",
+    "title": "Datos curados y reales para aprendizaje",
+    "content": "En El Arkhe partimos de una premisa clara: no todos los datos enseñan lo mismo. El diseño instruccional no solo define qué enseñar, sino también con qué datos se construye el criterio analítico. Elegir datos no es una decisión técnica menor, es una decisión pedagógica central. Por ello, mantenemos una “curaduría activa de datos”, seleccionados estratégicamente para acompañar la progresión del aprendizaje: . | Desde sistemas altamente estandarizados que facilitan la comprensión inicial | Hasta contextos biológicos complejos que exigen interpretación, criterio y pensamiento crítico. | . Este enfoque permite transitar de ejecutar workflows a entender profundamente los datos y sus implicaciones biológicas. Más que una comparación técnica, la siguiente tabla funciona para ilustrar una guía pedagógica estudiada para seleccionar datos según el objetivo de aprendizaje: . | Mammalia10x Genomics | Human BrainLieber Institute | ArabidopsisplantScGRN | . | Marcadores bien definidos | Marcadores menos evidentes | Marcadores limitados y emergentes | . | Tipos celulares del sistema inmune | Tipos celulares específicos de cerebro | Identidades celulares definidas por tejido (root, leaf, vascular) | . | Anotación más sencilla | Análisis más interpretativo | Anotación basada en contexto de desarrollo | . | Células (scRNA-seq) | Núcleos (snRNA-seq) | Principalmente células (protoplasting requerido) | . | Datasets estándar de referencia | Datasets enfocados en investigación | Datasets en rápida evolución con menor estandarización | . | Alta disponibilidad de referencias | Disponibilidad moderada de referencias | Referencias fragmentadas entre estudios | . | Fuerte consenso en la comunidad | Requiere experiencia específica del campo | Requiere conocimiento en biología vegetal | . | Separación clara de tipos celulares | Diferencias transcripcionales sutiles | Transiciones graduales de estado celular (developmental gradients) | . ",
+    "url": "/talleres/modelo_ensenanza/BDs_scRNAseq#datos-curados-y-reales-para-aprendizaje",
+    
+    "relUrl": "/talleres/modelo_ensenanza/BDs_scRNAseq#datos-curados-y-reales-para-aprendizaje"
+  },"4": {
+    "doc": "Selección de datos scRNA-seq",
+    "title": "Exploración de curaduría dedatos",
+    "content": "Como parte del taller, trabajamos con una curaduría de datos seleccionados estratégicamente para cubrir distintos niveles de aprendizaje: . Datos de 10x Genomics . | Flujos completos desde datos crudos (FASTQ) | Introducción al pipeline estándar con Cell Ranger | Base para aprendizaje estructurado y reproducible | . Datos del Lieber Institute (human brain) . | Datos enfocados en la habenula humana | Conexión directa con investigación real | Ejemplo de análisis en sistemas biológicos complejos | . Datos de planta Arabidopsis . | Alternativa para contextos agrícolas y biología vegetal | Enfoque en desarrollo, diferenciación y regulación génica | Ideal para transicionar hacia análisis interpretativo | . La colección completa de datasets y recursos está disponible para los participantes del taller o bajo solicitud directa. ",
+    "url": "/talleres/modelo_ensenanza/BDs_scRNAseq#exploraci%C3%B3n-de-curadur%C3%ADa-dedatos",
+    
+    "relUrl": "/talleres/modelo_ensenanza/BDs_scRNAseq#exploración-de-curaduría-dedatos"
+  },"5": {
+    "doc": "Selección de datos scRNA-seq",
+    "title": "Experiencia de aprendizaje efectiva",
+    "content": "El flujo de trabajo enfocado en incorporar datos alineados a los intereses del grupo de participantes, así como ajustes pertinentes a su nivel técnico, permite: . | Comprensión conceptual sólida | Práctica técnica contextualizada | Mayor autonomía en análisis | . Y, sobre todo, una inmersión de aprendizaje más enriquecedora que promueve el aprendizaje continuo. ",
+    "url": "/talleres/modelo_ensenanza/BDs_scRNAseq#experiencia-de-aprendizaje-efectiva",
+    
+    "relUrl": "/talleres/modelo_ensenanza/BDs_scRNAseq#experiencia-de-aprendizaje-efectiva"
+  },"6": {
+    "doc": "Selección de datos scRNA-seq",
+    "title": "Reflexión final",
+    "content": "En scRNA-seq, aprender no es solo ejecutar pipelines. Es interpretar datos, formular preguntas y generar conocimiento. Y ese proceso comienza con la elección correcta de los datos y un diagnóstico preciso del nivel del participante. Aspecto fundamental de nuestro diseño pedagógico en los talleres de El Arkhe MultiOmics. ",
+    "url": "/talleres/modelo_ensenanza/BDs_scRNAseq#reflexi%C3%B3n-final",
+    
+    "relUrl": "/talleres/modelo_ensenanza/BDs_scRNAseq#reflexión-final"
+  },"7": {
+    "doc": "Selección de datos scRNA-seq",
+    "title": "¿Te interesa este enfoque?",
+    "content": "¿Te gustaría colaborar, aportar datos o conocer más sobre nuestra propuesta formativa? 📩 Escríbenos a elarkhe@gmail.com . Explora nuestros talleres de análisis de datos ómicos: Índice de talleres . Ver la curaduría de datos: Explorar datos . ",
+    "url": "/talleres/modelo_ensenanza/BDs_scRNAseq#te-interesa-este-enfoque",
+    
+    "relUrl": "/talleres/modelo_ensenanza/BDs_scRNAseq#te-interesa-este-enfoque"
+  },"8": {
+    "doc": "Selección de datos scRNA-seq",
+    "title": "¿Te interesa la próxima edición del taller de scRNA-seq?",
+    "content": "Registrate para recibir más información sobre la próxima edición del taller, incluyendo fechas, temario y detalles de inscripción. 👉 Registrarse al taller . ",
+    "url": "/talleres/modelo_ensenanza/BDs_scRNAseq#te-interesa-la-pr%C3%B3xima-edici%C3%B3n-del-taller-de-scrna-seq",
+    
+    "relUrl": "/talleres/modelo_ensenanza/BDs_scRNAseq#te-interesa-la-próxima-edición-del-taller-de-scrna-seq"
+  },"9": {
+    "doc": "Selección de datos scRNA-seq",
+    "title": "Referencias y recursos",
+    "content": ". | Transcriptomic Analysis of the Human Habenula in Schizophrenia American Journal of Psychiatry https://psychiatryonline.org/doi/10.1176/appi.ajp.20240776 . | Supporting open-access version (PMC) https://pmc.ncbi.nlm.nih.gov/articles/PMC11119547/ . | 10x Genomics Datasets Repository https://www.10xgenomics.com/datasets . | . Cynthia S Cardinault (2026). El entrenamiento y la selección estratégica de datos en scRNA-seq. En Talleres MultiOmics. El Arkhe. ",
+    "url": "/talleres/modelo_ensenanza/BDs_scRNAseq#referencias-y-recursos",
+    
+    "relUrl": "/talleres/modelo_ensenanza/BDs_scRNAseq#referencias-y-recursos"
+  },"10": {
+    "doc": "Selección de datos scRNA-seq",
+    "title": "Selección de datos scRNA-seq",
+    "content": " ",
+    "url": "/talleres/modelo_ensenanza/BDs_scRNAseq",
+    
+    "relUrl": "/talleres/modelo_ensenanza/BDs_scRNAseq"
+  },"11": {
     "doc": "Contacto",
     "title": "Contacto",
     "content": "Si tu institución o laboratorio está interesada en organizar una edición del taller o deseas explorar una propuesta formativa adaptada a tus necesidades, estaremos encantados de conversar. ✉️ elarkhe@gmail.com . Para orientarnos mejor en la preparación de una posible propuesta, puedes incluir en tu mensaje: . | institución, laboratorio o unidad académica | modalidad preferida (presencial / online) | fechas tentativas | perfil del grupo participante (licenciatura, posgrado, personal técnico o investigación) | área de investigación | . También puedes escribirnos si tienes preguntas sobre el contenido de los talleres, posibles colaboraciones o iniciativas académicas relacionadas. Gracias por visitarnos . Cynthia S. Cardinault, PhD 🧬 El Arkhe Multiomics . © 2026 El Arkhé · México . ",
     "url": "/talleres/contacto/",
     
     "relUrl": "/talleres/contacto/"
-  },"1": {
+  },"12": {
     "doc": "El Arkhe",
     "title": "Bienvenid@ a El Árkhe",
     "content": "El Árkhe es una plataforma formativa y cultural dedicada a las ciencias ómicas desde múltiples lenguajes. Integra formación especializada, soporte técnico y producción cultural, articulando educación, arte y pensamiento científico como un mismo territorio. ",
     "url": "/#bienvenid-a-el-%C3%A1rkhe",
     
     "relUrl": "/#bienvenid-a-el-árkhe"
-  },"2": {
+  },"13": {
     "doc": "El Arkhe",
     "title": "Líneas de trabajo",
     "content": "El Arkhé: Talleres Multi-Omics . Línea formativa especializada dirigida a estudiantes de educación superior, bioinformáticos y profesionales que inician o consolidan su trayectoria en especialidades afines a la biologia molecular. Los talleres se enfocan en genómica, transcriptómica y epigenética, combinando fundamentos conceptuales con herramientas analíticas prácticas, en distintos niveles de especialización. El Arkhé: Cuentos Moleculares . Proyecto artístico en incubación orientado al público general. Explora el uso de cuentos cortos y ficción como medio narrativo para incorporar vocabulario y nociones de las ciencias ómicas como recurso estético, no como contenido explicativo. Su propósito no es enseñar ni evaluar conocimientos científicos, sino ofrecer experiencias narrativas accesibles para quienes disfrutan de las historias. Se concibe como una línea de producción cultural en desarrollo, con proyección hacia espacios educativos y culturales, así como plataformas digitales. Este sitio reúne información sobre las líneas formativas activas y los proyectos en desarrollo. Se les invita a recorrer sus secciones para conocer con mayor detalle nuestra propuesta. Gracias por visitarnos . Cynthia S. Cardinault, PhD 🧬 Fundadora de El Arkhe Multiomics . México ✉️ elarkhe@gmail.com . © 2026 El Arkhé · México . ",
     "url": "/#l%C3%ADneas-de-trabajo",
     
     "relUrl": "/#líneas-de-trabajo"
-  },"3": {
+  },"14": {
     "doc": "El Arkhe",
     "title": "El Arkhe",
     "content": ". ",
     "url": "/",
     
     "relUrl": "/"
-  },"4": {
+  },"15": {
     "doc": "Talleres Multiomics",
     "title": "Talleres Multiomics",
-    "content": "Talleres Multiomics . Propuestas formativas centradas en análisis de datos multi-ómicos, impartidas en colaboración con instituciones educativas y especialistas asociados. Navegación rápida . | Índice de talleres | Modelo de enseñanza | Términos administrativos | Contacto | . ",
+    "content": "Talleres Multiomics . Propuestas formativas centradas en análisis de datos multi-ómicos, impartidas en colaboración con instituciones educativas y especialistas asociados. Navegación rápida . | Índice de talleres | Modelo de enseñanza | Términos administrativos | Contacto | . © 2026 El Arkhé · México . ",
     "url": "/talleres/",
     
     "relUrl": "/talleres/"
-  },"5": {
+  },"16": {
     "doc": "Índice talleres",
     "title": "Índice talleres",
-    "content": "Explora nuestra propuesta formativa en análisis de multi-omicas. scRNA-seq — Activo . Introducción al análisis de expresión génica a nivel de célula individual. Visítanos en GitHub . scATAC-seq — En desarrollo . Introducción al análisis de accesibilidad de cromatina para el estudio de regulación génica. Ver ficha del taller . EN DESARROLLO . Multiome scRNA-seq + scATAC-seq — En desarrollo . Introducción a la integración de datos transcriptómicos y epigenómicos a nivel de célula individual. Ver ficha del taller . EN DESARROLLO . ",
+    "content": "Explora nuestra propuesta formativa en análisis de multi-omicas. scRNA-seq — Activo . Introducción al análisis de expresión génica a nivel de célula individual. Visítanos en GitHub . Conoce nuestro enfoque pedagógico para el entrenamiento en análisis de datos, y explora nuestra curaduría de datasets para aprendizaje práctico: . | Selección estratégica de datos para aprendizaje en scRNA-seq | Ver curaduria de datos | . scATAC-seq — En desarrollo . Introducción al análisis de accesibilidad de cromatina para el estudio de regulación génica. Ver ficha del taller . EN DESARROLLO . Multiome scRNA-seq + scATAC-seq — En desarrollo . Introducción a la integración de datos transcriptómicos y epigenómicos a nivel de célula individual. Ver ficha del taller . EN DESARROLLO . © 2026 El Arkhé · México . ",
     "url": "/talleres/indice_talleres/",
     
     "relUrl": "/talleres/indice_talleres/"
-  },"6": {
+  },"17": {
     "doc": "Modelo de Enseñanza",
     "title": "Modelo de enseñanza",
     "content": "Los Talleres Multiomics de El Arkhe constituyen una iniciativa formativa especializada orientada al análisis de datos de multi ómicas generados mediante tecnologías modernas de secuenciación de alto rendimiento. Estos talleres se imparten en colaboración con instituciones académicas y especialistas asociados, con el propósito de ofrecer experiencias formativas rigurosas y actualizadas. El enfoque pedagógico prioriza la comprensión conceptual de los principios que sustentan los métodos analíticos, evitando limitar la formación a la mera ejecución técnica de herramientas. De esta manera, los participantes desarrollan criterios sólidos para interpretar resultados, evaluar metodologías y adaptar flujos de análisis a distintos contextos experimentales. El contenido de los talleres se fundamenta en literatura científica contemporánea, en metodologías analíticas reproducibles y en buenas prácticas de análisis computacional. Este enfoque busca fortalecer la capacidad crítica de los participantes frente al rápido desarrollo de las tecnologías genómicas y de los métodos de análisis asociados. Los talleres se ofrecen en español e inglés, con el objetivo de ampliar el acceso a formación especializada de alta calidad y fomentar el intercambio científico en diálogo con comunidades académicas internacionales. ",
     "url": "/talleres/modelo_ensenanza/#modelo-de-ense%C3%B1anza",
     
     "relUrl": "/talleres/modelo_ensenanza/#modelo-de-enseñanza"
-  },"7": {
+  },"18": {
     "doc": "Modelo de Enseñanza",
     "title": "Estructura académica de los talleres",
     "content": "Los talleres están diseñados como una introducción estructurada al análisis de datos de célula única, incluyendo transcriptómica de célula individual (scRNA-seq), accesibilidad de cromatina (scATAC-seq) y, cuando corresponde, su integración con transcriptómica espacial y otros enfoques multi-ómicos. Cada taller combina fundamentos conceptuales con práctica analítica aplicada, permitiendo a los participantes comprender tanto la lógica metodológica como la implementación práctica de los principales flujos de análisis utilizados en investigación contemporánea. En términos generales, los talleres incluyen: . | introducción a los principios conceptuales del análisis de datos multi-ómicos | recorrido completo del flujo estándar de análisis de datos de célula única | exploración de herramientas analíticas actuales y metodologías emergentes | ejercicios prácticos guiados basados en datasets reales | aplicación de buenas prácticas computacionales | interpretación biológica de resultados en el contexto de preguntas experimentales | discusión crítica apoyada en literatura científica reciente | . Las sesiones combinan exposiciones conceptuales con trabajo práctico en vivo. Los participantes reciben material descargable y acceso a recursos digitales que facilitan la continuidad del aprendizaje después del taller. Cuando es posible, los ejercicios se desarrollan utilizando datasets adaptados al contexto científico del grupo participante, lo cuál nos hace una opción única en este segmento. El diseño pedagógico prioriza el uso de herramientas open-source y metodologías reproducibles, así como estrategias de análisis adaptadas a escenarios donde las limitaciones de infraestructura computacional pueden representar un desafío operativo. Duración: 4–5 días (20–24 horas) Modalidad: presencial u online Idioma: español / inglés Formato: grupos reducidos con soporte técnico asistido . ",
     "url": "/talleres/modelo_ensenanza/#estructura-acad%C3%A9mica-de-los-talleres",
     
     "relUrl": "/talleres/modelo_ensenanza/#estructura-académica-de-los-talleres"
-  },"8": {
+  },"19": {
     "doc": "Modelo de Enseñanza",
     "title": "Perfil de participantes",
     "content": "Los talleres están dirigidos a estudiantes, investigadores y profesionales provenientes de áreas como biología, medicina, bioinformática, ciencias computacionales u otras disciplinas afines que buscan adquirir una introducción estructurada al análisis de datos genómicos de alto rendimiento. Se recomienda que los participantes cuenten con conocimientos básicos de biología molecular y genética, aunque no es necesario tener experiencia previa en análisis bioinformático avanzado. Los talleres están diseñados para facilitar una transición progresiva hacia la comprensión de flujos analíticos complejos. ",
     "url": "/talleres/modelo_ensenanza/#perfil-de-participantes",
     
     "relUrl": "/talleres/modelo_ensenanza/#perfil-de-participantes"
-  },"9": {
+  },"20": {
     "doc": "Modelo de Enseñanza",
     "title": "Modelo de Enseñanza",
     "content": " ",
     "url": "/talleres/modelo_ensenanza/",
     
     "relUrl": "/talleres/modelo_ensenanza/"
-  },"10": {
+  },"21": {
+    "doc": "Registro scRNA-seq",
+    "title": "Taller de análisis de célula única (scRNA-seq)",
+    "content": ". Aprende a analizar datos de célula única desde archivos FASTQ hasta la identificación de tipos celulares, combinando teoría y práctica en un flujo real de trabajo. 📅 6–10 de julio de 2026 ⏱️ 20 horas (5 sesiones en vivo) 🧪 Modalidad: Online . Impartido por especialistas en análisis multi-ómico con experiencia en datos de 10x Genomics y proyectos reales de investigación. 🕒 Registro abierto hasta llenar cupo . Asegura tu lugar 👉 Regístrate aquí . ¿Qué hace diferente este taller? . | 🧬 Flujo completo: desde datos crudos (FASTQ) hasta interpretación biológica | ☁️ Sin HPC: procesamiento en la nube con 10x Genomics | 🔍 Datos reales: no trabajamos con datasets simplificados | 🎓 Ritmo realista: aprendizaje profundo en 20 horas efectivas | ⚙️ Reproducibilidad: prácticas alineadas a estándares de publicación | 👩‍🏫 Sesiones en vivo con acompañamiento guiado | . ¿Qué aprenderás? . Durante el taller trabajarás con un dataset real y recorrerás paso a paso: . | Procesamiento de datos crudos con Cell Ranger | Control de calidad y filtrado de células | Integración de múltiples datasets | Reducción de dimensionalidad y clustering | Identificación de tipos celulares mediante genes marcadores | . ¿Cómo trabajaremos? . | Dataset real generado con tecnología Chromium (10x Genomics) | Procesamiento en la nube con Cell Ranger on the Cloud | Análisis downstream en R con Seurat v5 | Ejercicios prácticos guiados paso a paso | Soporte en vivo durante todas las sesiones | . ¿A quién está dirigido? . Estudiantes, investigadores y profesionales interesados en análisis de datos genómicos. ✔️ Recomendado: . | Conocimiento básico de biología molecular | Familiaridad básica con R (no obligatorio) | . ",
+    "url": "/talleres/registro/#taller-de-an%C3%A1lisis-de-c%C3%A9lula-%C3%BAnica-scrna-seq",
+    
+    "relUrl": "/talleres/registro/#taller-de-análisis-de-célula-única-scrna-seq"
+  },"22": {
+    "doc": "Registro scRNA-seq",
+    "title": "❓ Preguntas frecuentes",
+    "content": "¿Necesito una computadora potente? No. El procesamiento se realiza en la nube, por lo que no necesitas infraestructura especializada. ¿Trabajaremos con datos reales? Sí. Utilizamos datasets públicos representativos de estudios actuales. ¿Es solo teoría? No. El taller está enfocado en práctica guiada con explicación conceptual. ¿Incluye soporte? Sí. Tendrás acompañamiento en vivo y recursos adicionales. ⚠️ Cupo limitado . Este taller se imparte en grupos reducidos para asegurar acompañamiento personalizado. 👉 Registrarse aquí . Tecnologías utilizadas . Cell Ranger · Seurat v5 · R · 10x Genomics · scRNA-seq . ",
+    "url": "/talleres/registro/#-preguntas-frecuentes",
+    
+    "relUrl": "/talleres/registro/#-preguntas-frecuentes"
+  },"23": {
+    "doc": "Registro scRNA-seq",
+    "title": "Registro scRNA-seq",
+    "content": " ",
+    "url": "/talleres/registro/",
+    
+    "relUrl": "/talleres/registro/"
+  },"24": {
     "doc": "scATAC-seq",
     "title": "Taller scATAC-seq",
     "content": "Tech Stack . EN DESARROLLO . Estudio de accesibilidad de cromatina para identificar regiones regulatorias activas y comprender mecanismos de regulación génica. Duración recomendada: 4-5 días (20–24 horas) Modalidad: presencial u online Idioma: español Formato: grupos reducidos con soporte técnico asistido . Contacto: elarkhe@gmail.com . ",
     "url": "/talleres/developing/scatac_seq/#taller-scatac-seq",
     
     "relUrl": "/talleres/developing/scatac_seq/#taller-scatac-seq"
-  },"11": {
+  },"25": {
     "doc": "scATAC-seq",
     "title": "scATAC-seq",
     "content": " ",
     "url": "/talleres/developing/scatac_seq/",
     
     "relUrl": "/talleres/developing/scatac_seq/"
-  },"12": {
+  },"26": {
     "doc": "Multiome scRNA+scATAC-seq",
     "title": "Taller Multiome (scRNA-seq + scATAC-seq)",
     "content": "Tech Stack . EN DESARROLLO . Integración simultánea de datos transcriptómicos y epigenómicos a nivel celular para relacionar programas de expresión génica con su contexto regulatorio. Duración recomendada: 4-5 días (20–24 horas) Modalidad: presencial u online Idioma: español Formato: grupos reducidos con soporte técnico asistido . Contacto: elarkhe@gmail.com . ",
     "url": "/talleres/developing/scrna_atac_seq/#taller-multiome-scrna-seq--scatac-seq",
     
     "relUrl": "/talleres/developing/scrna_atac_seq/#taller-multiome-scrna-seq--scatac-seq"
-  },"13": {
+  },"27": {
     "doc": "Multiome scRNA+scATAC-seq",
     "title": "Multiome scRNA+scATAC-seq",
     "content": " ",
     "url": "/talleres/developing/scrna_atac_seq/",
     
     "relUrl": "/talleres/developing/scrna_atac_seq/"
-  },"14": {
+  },"28": {
     "doc": "scRNA-seq",
     "title": "Taller scRNA-seq",
     "content": "Tech Stack . Análisis de expresión génica a nivel de célula individual para explorar diversidad celular, estados transcripcionales y organización funcional de tejidos complejos. Duración recomendada: 4-5 días (20–24 horas) Modalidad: presencial u online Idioma: español Formato: grupos reducidos con soporte técnico asistido . Visítanos en GitHub . &lt;/a&gt; . Contacto: elarkhe@gmail.com . ",
     "url": "/talleres/developing/scrna_seq/#taller-scrna-seq",
     
     "relUrl": "/talleres/developing/scrna_seq/#taller-scrna-seq"
-  },"15": {
+  },"29": {
     "doc": "scRNA-seq",
     "title": "scRNA-seq",
     "content": " ",
     "url": "/talleres/developing/scrna_seq/",
     
     "relUrl": "/talleres/developing/scrna_seq/"
-  },"16": {
+  },"30": {
     "doc": "Términos Administrativos",
     "title": "Términos Administrativos",
     "content": "Facturación . La facturación se acordará entre las partes conforme al esquema definido en el convenio o acuerdo institucional correspondiente. El Árkhe podrá emitir comprobantes fiscales de acuerdo con la normativa aplicable en México o según el mecanismo administrativo previamente establecido con la institución colaboradora. Coordinación operativa . Los detalles logísticos —incluyendo modalidad, calendario, requerimientos técnicos, infraestructura computacional y número de participantes— serán definidos conjuntamente entre El Arkhe y la institución colaboradora antes de la confirmación oficial del taller. Cualquier ajuste posterior deberá ser consensuado por ambas partes. ",
