@@ -32,7 +32,6 @@ Propuestas formativas centradas en **análisis de multi-ómicas**, implementadas
 
 - [Índice de talleres](/talleres/indice_talleres/)
 - [Modelo de enseñanza](/talleres/modelo_ensenanza/)
-- [Términos administrativos](/talleres/terminos_admon/)
 - [Contacto](/talleres/contacto/)
 
 
