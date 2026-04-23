@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Términos Administrativos
-parent: Talleres Multiomics
+# parent: Talleres Multiomics
 nav_order: 3
 permalink: /talleres/terminos_admon/
+nav_exclude: true
+search_exclude: true
 ---
 
 ### Facturación

@@ -39,13 +39,10 @@ Propuestas formativas centradas en **análisis de multi-ómicas**, implementadas
 ---
 
 <div style="margin-top:60px;">
-
   <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=elarkhe.github.io" 
+    src="https://visitor-badge.laobi.icu/badge?page_id=el-arkhe.github.io" 
     alt="visitors"
-    style="opacity:0.8;"
-  />
-
+    style="opacity:0.8;"/>
 </div>
 
 <p style="opacity:0.8; margin-top:30px;">
