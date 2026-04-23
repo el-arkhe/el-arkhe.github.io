@@ -26,7 +26,7 @@ has_toc: false
 [![Workshops](https://img.shields.io/badge/Talleres-Multiomics-blue)](https://elarkhe.github.io/talleres/)
 [![Workshop Index](https://img.shields.io/badge/Índice%20de%20talleres-available-success)](https://elarkhe.github.io/talleres/indice_talleres/)
 
-Propuestas formativas centradas en **análisis de datos multi-ómicos**, impartidas en colaboración con instituciones educativas y especialistas asociados.
+Propuestas formativas centradas en **análisis de multi-ómicas**, implementadas en colaboración con instituciones educativas y especialistas asociados.
 
 ### Navegación rápida
 
@@ -49,6 +49,6 @@ Propuestas formativas centradas en **análisis de datos multi-ómicos**, imparti
 </div>
 
 <p style="opacity:0.8; margin-top:30px;">
-© 2026 El Arkhé · México
+© 2026 El Arkhe · México
 </p>
 

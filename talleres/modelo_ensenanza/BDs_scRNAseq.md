@@ -11,12 +11,11 @@ toc: false
 
 El entrenamiento en análisis de datos ómicos como **scRNA-seq**  se enfoca principalmente en herramientas, pipelines y algoritmos. Sin embargo, uno de los factores más determinantes en el aprendizaje es la **selección de los datos con los que se entrena**.
 
+Antes de escribir una sola línea de código, la calidad de la experiencia de aprendizaje ya está siendo definida por el tipo de datos elegidos.
+
 <p align="center">
   <img src="{{ '/assets/img/scRNAseq_datos_eleccion.svg' | relative_url }}" alt="Sketch 1" style="max-width:70%; height:auto;"> 
 </p>
-
-> Antes de escribir una sola línea de código, la calidad de la experiencia de aprendizaje ya está siendo definida por el tipo de datos elegidos.
-{: .note }
 
 ---
 
@@ -131,15 +130,11 @@ Ver la curaduría de datos:
 
 ## Referencias y recursos
 
-- Transcriptomic Analysis of the Human Habenula in Schizophrenia  
-  American Journal of Psychiatry  
-  https://psychiatryonline.org/doi/10.1176/appi.ajp.20240776  
+- [Transcriptomic Analysis of the Human Habenula in Schizophrenia American Journal of Psychiatry](https://psychiatryonline.org/doi/10.1176/appi.ajp.20240776)
 
-- Supporting open-access version (PMC)  
-  https://pmc.ncbi.nlm.nih.gov/articles/PMC11119547/  
+- [Supporting open-access version (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11119547/)
 
-- 10x Genomics Datasets Repository  
-  https://www.10xgenomics.com/datasets  
+- [10x Genomics Datasets Repository](https://www.10xgenomics.com/datasets)
 
 ---
 
