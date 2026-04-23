@@ -12,7 +12,7 @@ toc: false
 El entrenamiento en análisis de datos ómicos como **scRNA-seq**  se enfoca principalmente en herramientas, pipelines y algoritmos. Sin embargo, uno de los factores más determinantes en el aprendizaje es la **selección de los datos con los que se entrena**.
 
 <p align="center">
-  <img src="{{ '/assets/img/taller_selec_datos.png' | relative_url }}" alt="Sketch 1" style="max-width:70%; height:auto;"> 
+  <img src="{{ '/assets/img/scRNAseq_datos_eleccion.svg' | relative_url }}" alt="Sketch 1" style="max-width:70%; height:auto;"> 
 </p>
 
 > Antes de escribir una sola línea de código, la calidad de la experiencia de aprendizaje ya está siendo definida por el tipo de datos elegidos.
@@ -116,9 +116,8 @@ Es interpretar datos, formular preguntas y generar conocimiento.
 
 ---
 
-## ¿Te interesa este enfoque?
+### ¿Te interesa este enfoque, colaborar, aportar datos o conocer más sobre nuestra propuesta formativa?  
 
-¿Te gustaría colaborar, aportar datos o conocer más sobre nuestra propuesta formativa?  
 📩 Escríbenos a [elarkhe@gmail.com](mailto:elarkhe@gmail.com)
 
 Explora nuestros talleres de análisis de datos ómicos: [Índice de talleres](/talleres/indice_talleres/)
@@ -126,15 +125,9 @@ Explora nuestros talleres de análisis de datos ómicos: [Índice de talleres](/
 Ver la curaduría de datos:
 [Explorar datos](https://github.com/el-arkhe/scrnaseq-workshop/blob/main/data/README.md)
 
----
-
-## ¿Te interesa la próxima edición del taller de scRNA-seq?
-
-Registrate para recibir más información sobre la próxima edición del taller, incluyendo fechas, temario y detalles de inscripción.
-
+<!--
 👉 [**Registrarse al taller**](/talleres/registro/)
-
----
+-->
 
 ## Referencias y recursos
 
@@ -150,4 +143,4 @@ Registrate para recibir más información sobre la próxima edición del taller,
 
 ---
 
-Cynthia S Cardinault (2026). El entrenamiento y la selección estratégica de datos en scRNA-seq. En *Talleres MultiOmics*. El Arkhe.
+Cynthia S Cardinault (2026). El entrenamiento y la selección estratégica de datos en scRNA-seq. En *El Arkhe MultiOmics*.
