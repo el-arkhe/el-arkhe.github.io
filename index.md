@@ -56,11 +56,11 @@ México
 <a href="https://clustrmaps.com/site/1c9tx"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=ajrOOuOy7E0wj3KxjeQhvvTGFOTPWXw76G9as5FV7Qo&cl=ffffff" /></a>
 </div>
 -->
-<div style="margin-top:60px;">
+<div style="margin-top:40px; text-align:center;">
   <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=el-arkhe.github.io" 
+    src="https://visitor-badge.laobi.icu/badge?page_id=el-arkhe.el-arkhe.github.io&left_text=visitas" 
     alt="visitors"
-    style="opacity:0.8;"/>
+    style="opacity:0.7;"/>
 </div>
 
 <p style="opacity:0.7; margin-top:40px;">

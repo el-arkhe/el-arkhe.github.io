@@ -12,11 +12,10 @@ Nuestros cursos formativos especializados están orientados al análisis de dato
 
 Nuestro modelo pedagógico prioriza la **comprensión conceptual de los principios que sustentan los métodos analíticos**, evitando limitar la formación a la mera ejecución técnica de herramientas. De esta manera, los participantes desarrollan criterios sólidos para interpretar resultados, evaluar metodologías y adaptar flujos de análisis a distintos contextos experimentales.
 
-El contenido de los cursos se fundamenta en **literatura científica contemporánea**, revisión de metodologías analíticas reproducibles y en buenas prácticas de análisis computacional. Nuestro modelo busca fortalecer la capacidad crítica de los participantes frente al rápido desarrollo de las tecnologías genómicas y de los métodos de análisis asociados.
+El contenido de los cursos se fundamenta en **literatura científica contemporánea**, revisión de metodologías analíticas reproducibles y en buenas prácticas de análisis computacional. Estamos comprometidos en fortalecer la capacidad análitica de los participantes frente al rápido surgimiento de nuevas herramientas y enfoques en el campo de las ciencias ómicas.
 
 Los cursos se ofrecen en español con el objetivo de ampliar el acceso a formación especializada de alta calidad en la comunidad latinoamericana y fomentar el intercambio científico en diálogo con comunidades académicas internacionales.
 
----
 
 ## Estructura académica de los cursos
 
@@ -33,7 +32,6 @@ En generales, los cursos incluyen:
 
 Priorizamos el uso de **herramientas open-source**, y plataformas de procesamiento en la nube adaptadas a escenarios donde las limitaciones de infraestructura computacional pueden representar un desafío operativo.
 
----
 
 ## Perfil de participantes
 
@@ -41,4 +39,3 @@ Los cursos están dirigidos a estudiantes, investigadores y profesionales proven
 
 No se requiere experiencia previa en análisis de datos ómicos, pero se recomienda tener conocimientos básicos de biología molecular y genética, así como familiaridad con conceptos fundamentales de programación y análisis de datos.
 
----
