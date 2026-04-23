@@ -37,9 +37,9 @@ Propuestas formativas centradas en **análisis de multi-ómicas**, implementadas
 
 ---
 
-<div style="margin-top:40px; text-align:center;">
+<div style="margin-top:40px">
   <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=el-arkhe.el-arkhe.github.io&left_text=visitas" 
+    src="https://visitor-badge.laobi.icu/badge?page_id=el-arkhe.global&left_text=visitas" 
     alt="visitors"
     style="opacity:0.7;"/>
 </div>
