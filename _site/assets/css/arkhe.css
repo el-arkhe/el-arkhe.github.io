@@ -1,0 +1,61 @@
+/* Arkhe homepage: scoped to .arkhe-home, with layout adjustments only on that page */
+:root { --arkhe-ink:#101114; --arkhe-teal:#09bfc0; --arkhe-accent:#f73583; --arkhe-line:#dbeaea; --arkhe-muted:#495b60; --arkhe-pale:#f0fafa; }
+body:has(.arkhe-home) .side-bar { display:none; }
+body:has(.arkhe-home) .main { margin-left:0; max-width:none; }
+body:has(.arkhe-home) .main-header { display:none; }
+body:has(.arkhe-home) .main-content-wrap { max-width:none; padding:0; }
+body:has(.arkhe-home) .main-content { max-width:none; padding:0; margin:0; }
+body:has(.arkhe-home) .site-footer { display:none; }
+.arkhe-home { color:var(--arkhe-ink); background:#fff; font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+.arkhe-home * { box-sizing:border-box; }
+.arkhe-home a { color:var(--arkhe-teal); }
+.arkhe-home .arkhe-top, .arkhe-home .arkhe-hero, .arkhe-home .arkhe-section, .arkhe-home .arkhe-footer { padding-left:max(24px,calc((100vw - 1060px)/2)); padding-right:max(24px,calc((100vw - 1060px)/2)); }
+.arkhe-top { display:flex; justify-content:space-between; align-items:center; gap:24px; padding-top:26px; padding-bottom:26px; border-bottom:1px solid var(--arkhe-line); }
+.arkhe-home .arkhe-wordmark { display:inline-flex; align-items:center; gap:12px; font-weight:700; letter-spacing:.11em; font-size:.67rem; text-decoration:none; color:var(--arkhe-ink); white-space:nowrap; }
+.arkhe-wordmark img { display:block; width:182px; height:auto; }
+.arkhe-wordmark span { color:var(--arkhe-ink); font-weight:700; }
+.arkhe-top nav { display:flex; gap:22px; flex-wrap:wrap; }
+.arkhe-top nav a { color:var(--arkhe-ink); text-decoration:none; font-size:.86rem; }
+.arkhe-home h1, .arkhe-home h2, .arkhe-home h3 { color:var(--arkhe-ink); letter-spacing:-.025em; line-height:1.2; }
+.arkhe-home h1 { font-size:clamp(2.4rem,5vw,4.6rem); max-width:900px; margin:12px 0 22px; font-weight:750; }
+.arkhe-home h2 { font-size:clamp(1.75rem,3vw,2.5rem); margin:8px 0 28px; }
+.arkhe-home h3 { font-size:1.15rem; margin:8px 0 12px; }
+.arkhe-home p { line-height:1.75; }
+.arkhe-eyebrow { color:var(--arkhe-teal); letter-spacing:.14em; font-weight:750; font-size:.74rem; }
+.arkhe-hero { padding-top:112px; padding-bottom:118px; }
+.arkhe-lead { max-width:730px; color:var(--arkhe-muted); font-size:1.2rem; }
+.arkhe-actions { display:flex; align-items:center; gap:28px; flex-wrap:wrap; margin-top:30px; }
+.arkhe-home .arkhe-button { display:inline-flex; gap:18px; align-items:center; padding:14px 21px; border-radius:5px; background:var(--arkhe-teal); color:#fff; text-decoration:none; font-weight:650; }
+.arkhe-home .arkhe-button:hover { background:#087f80; }
+.arkhe-home .arkhe-textlink { font-weight:650; text-decoration:none; border-bottom:1px solid currentColor; }
+.arkhe-section { padding-top:90px; padding-bottom:90px; border-top:1px solid var(--arkhe-line); scroll-margin-top:24px; }
+.arkhe-soft { background:var(--arkhe-pale); }
+.arkhe-grid { display:grid; gap:16px; }
+.arkhe-grid-2 { grid-template-columns:repeat(2,minmax(0,1fr)); }
+.arkhe-card { border:1px solid var(--arkhe-line); border-radius:8px; padding:28px; background:#fff; }
+.arkhe-card p, .arkhe-expertise p, .arkhe-about p, .arkhe-section > p:not(.arkhe-eyebrow) { color:var(--arkhe-muted); }
+.arkhe-number { font-size:.8rem; color:var(--arkhe-teal); font-weight:700; }
+.arkhe-expertise { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); column-gap:50px; }
+.arkhe-expertise > div { border-top:1px solid var(--arkhe-line); padding:22px 0; }
+.arkhe-note { font-size:.85rem; color:var(--arkhe-muted); margin-top:24px; }
+.arkhe-about { display:grid; grid-template-columns:1fr 1fr; gap:60px; }
+.arkhe-contact { background:#101114; color:#fff; }
+.arkhe-contact h2, .arkhe-contact p, .arkhe-contact .arkhe-note { color:#fff !important; }
+.arkhe-contact .arkhe-eyebrow { color:#65e2e1; }
+.arkhe-contact .arkhe-button { background:#fff; color:#101114; }
+.arkhe-footer { display:flex; justify-content:space-between; gap:20px; padding-top:28px; padding-bottom:28px; font-size:.8rem; color:var(--arkhe-muted); }
+@media(max-width:760px) {
+ .arkhe-top { align-items:flex-start; flex-direction:column; }
+ .arkhe-top nav { gap:12px 18px; }
+ .arkhe-hero { padding-top:70px; padding-bottom:75px; }
+ .arkhe-section { padding-top:62px; padding-bottom:62px; }
+ .arkhe-grid-2,.arkhe-expertise,.arkhe-about { grid-template-columns:1fr; }
+ .arkhe-about { gap:12px; }
+ .arkhe-footer { flex-direction:column; }
+}
+
+/* Arkhe brand accents */
+.arkhe-home .arkhe-button:focus-visible, .arkhe-home a:focus-visible { outline:3px solid var(--arkhe-accent); outline-offset:4px; }
+.arkhe-home .arkhe-textlink:hover, .arkhe-top nav a:hover { color:var(--arkhe-accent); }
+.arkhe-contact .arkhe-button:hover { background:var(--arkhe-accent); color:#fff; }
+@media(max-width:460px) { .arkhe-wordmark img { width:145px; } .arkhe-home .arkhe-wordmark { gap:8px; font-size:.58rem; } }
