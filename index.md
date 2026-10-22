@@ -44,8 +44,16 @@ permalink: /
     <h2 id="arkhe-institutional-title">Institutional Partnerships</h2>
     <p class="arkhe-section-intro">Specialized training for researchers, students, and scientific teams through practical workshops, intensive courses, and adaptable learning pathways in bioinformatics and omics data analysis.</p>
     <div class="arkhe-grid arkhe-grid-2">
-      <article class="arkhe-card"><span class="arkhe-number">01</span><h3>Hands-on workshops</h3><p>Guided exercises that connect experimental data, computational tools, and biological interpretation.</p></article>
-      <article class="arkhe-card"><span class="arkhe-number">02</span><h3>Specialized Learning pathways</h3><p>Progressive training across single-cell transcriptomics, chromatin accessibility, multiomics integration, and spatial methods.</p></article>
+      <article class="arkhe-card"><span class="arkhe-number">01</span><h3>
+  <a href="{{ '/hands-on-workshops/' | relative_url }}">
+    Hands-on workshops →
+  </a>
+</h3><p>Guided exercises that connect experimental data, computational tools, and biological interpretation.</p></article>
+      <article class="arkhe-card"><span class="arkhe-number">02</span><h3>
+  <a href="{{ '/specialized-learning-pathways/' | relative_url }}">
+    Specialized Learning pathways →
+  </a>
+</h3><p>Progressive training across single-cell transcriptomics, chromatin accessibility, multiomics integration, and spatial methods.</p></article>
     </div>
     <p class="arkhe-section-action"><a class="arkhe-textlink" href="mailto:elarkhe@gmail.com?subject=Institutional%20training%20inquiry">Discuss institutional training →</a></p>
   </section>

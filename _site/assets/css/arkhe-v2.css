@@ -1,0 +1,18 @@
+/* Homepage v2.2 additions; original Arkhe branding and layout remain intact. */
+.arkhe-v2 .arkhe-section-intro { max-width:790px; margin:0 0 30px; color:var(--arkhe-muted); font-size:1.05rem; }
+.arkhe-v2 .arkhe-section-action { margin:28px 0 0; }
+.arkhe-v2 .arkhe-card { height:100%; }
+.arkhe-v2 .arkhe-card h3 { margin-top:12px; }
+.arkhe-v2 .arkhe-top nav a { white-space:nowrap; }
+.arkhe-v2 .arkhe-top nav a:focus-visible { outline:3px solid var(--arkhe-accent); outline-offset:4px; }
+.arkhe-v2 .arkhe-hero { padding-top:100px; padding-bottom:105px; }
+.arkhe-v2 .arkhe-programs { margin-top:48px; padding-top:28px; border-top:1px solid var(--arkhe-line); }
+.arkhe-v2 .arkhe-programs > h3 { font-size:1.45rem; margin:0 0 8px; }
+.arkhe-v2 .arkhe-programs-intro { color:var(--arkhe-muted); margin:0 0 22px; }
+.arkhe-v2 .arkhe-contact .arkhe-button { background:var(--arkhe-teal); color:#101114; }
+.arkhe-v2 .arkhe-contact .arkhe-button:hover { background:var(--arkhe-accent); color:#fff; }
+@media(max-width:760px) {
+  .arkhe-v2 .arkhe-hero { padding-top:65px; padding-bottom:72px; }
+  .arkhe-v2 .arkhe-section-intro { font-size:1rem; }
+  .arkhe-v2 .arkhe-programs { margin-top:34px; }
+}
