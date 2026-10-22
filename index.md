@@ -7,7 +7,7 @@ permalink: /
 
 <div class="arkhe-home">
   <header class="arkhe-top">
-    <a class="arkhe-wordmark" href="{{ '/' | relative_url }}">ARKHE <span>MULTIOMICS</span></a>
+    <a class="arkhe-wordmark" href="{{ '/' | relative_url }}" aria-label="Arkhe Multiomics home"><img src="{{ '/assets/images/arkhe-wordmark.png' | relative_url }}" alt="ARKHE" width="182" height="42"><span>MULTIOMICS</span></a>
     <nav aria-label="Homepage navigation">
       <a href="#services">Services</a><a href="#expertise">Expertise</a><a href="#about">About</a><a href="#workshops">Workshops</a><a href="#contact">Contact</a>
     </nav>
@@ -15,7 +15,7 @@ permalink: /
 
   <section class="arkhe-hero">
     <p class="arkhe-eyebrow">BIOINFORMATICS ANALYSIS · SCIENTIFIC CONSULTING</p>
-    <h1>From complex omics data to meaningful biological insights</h1>
+    <h1>From complex omics data to meaningful biological insights.</h1>
     <p class="arkhe-lead">Specialized computational analysis, reproducible workflows, and scientific support for single-cell, spatial, and integrated multiomics research.</p>
     <div class="arkhe-actions">
       <a class="arkhe-button" href="mailto:elarkhe@gmail.com?subject=Bioinformatics%20project%20inquiry">Discuss your project <span aria-hidden="true">↗</span></a>
@@ -48,7 +48,7 @@ permalink: /
   </section>
 
   <section id="about" class="arkhe-section arkhe-about">
-    <div><p class="arkhe-eyebrow">SCIENTIFIC LEADERSHIP</p><h2>Research-driven. Methodologically rigorous</h2></div>
+    <div><p class="arkhe-eyebrow">SCIENTIFIC LEADERSHIP</p><h2>Research-driven. Methodologically rigorous.</h2></div>
     <div><h3>Founded by Cynthia S. Cardinault, PhD</h3><p>Arkhe Multiomics is a scientist-led initiative grounded in computational biology, transcriptomics, epigenomics, and integrative analysis. We emphasize reproducibility and biologically meaningful interpretation.</p><a class="arkhe-textlink" href="https://cyntsc.github.io/">Explore the founder's research background →</a></div>
   </section>
 
@@ -59,7 +59,7 @@ permalink: /
   </section>
 
   <section id="contact" class="arkhe-section arkhe-contact">
-    <p class="arkhe-eyebrow">WORK WITH US</p><h2>Let's discuss your research</h2>
+    <p class="arkhe-eyebrow">WORK WITH US</p><h2>Let's discuss your research.</h2>
     <p>Tell us about your scientific questions, datasets, and analytical needs. We can explore an appropriate scope of work together.</p>
     <a class="arkhe-button" href="mailto:elarkhe@gmail.com?subject=Arkhe%20Multiomics%20project%20inquiry">Contact Arkhe <span aria-hidden="true">↗</span></a>
     <p class="arkhe-note">Mexico · Remote collaboration</p>
