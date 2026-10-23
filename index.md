@@ -25,17 +25,18 @@ permalink: /
   </section>
 
   <!-- 02 · Translational Research -->
+  <!-- 02 · Translational Research: three services -->
   <section id="consulting" class="arkhe-section" aria-labelledby="arkhe-consulting-title">
     <p class="arkhe-eyebrow">TRANSLATIONAL RESEARCH</p>
-    <h2 id="arkhe-consulting-title">Bioinformatics consulting</h2>
-    <p class="arkhe-section-intro">Specialized computational analysis, reproducible workflows, and scientific support tailored to your research questions, study design, and available datasets.</p>
+    <h2 id="arkhe-consulting-title">Bioinformatics for research teams</h2>
+    <p class="arkhe-section-intro">We help research teams solve computational challenges, build technical independence, and advance collaborative projects through rigorous, reproducible multiomics analysis.</p>
     <div class="arkhe-grid arkhe-grid-2">
-      <article class="arkhe-card"><span class="arkhe-number">01</span><h3>Bioinformatics analysis</h3><p>End-to-end and targeted analyses, from quality control and preprocessing to statistical modeling, visualization, and biological interpretation.</p></article>
-      <article class="arkhe-card"><span class="arkhe-number">02</span><h3>Pipelines &amp; workflows</h3><p>Development, adaptation, evaluation, and documentation of reproducible computational workflows.</p></article>
-      <article class="arkhe-card"><span class="arkhe-number">03</span><h3>Scientific consulting</h3><p>Study planning, analytical strategy, method selection, troubleshooting, and collaborative computational research.</p></article>
-      <article class="arkhe-card"><span class="arkhe-number">04</span><h3>Research interpretation</h3><p>Support in connecting quantitative results with biological hypotheses and scientific communication.</p></article>
+      <article class="arkhe-card"><span class="arkhe-number">01 · SOLVE</span><h3>Bioinformatics Consulting</h3><p>Targeted analysis, troubleshooting, workflow development, and biological interpretation to address a specific research challenge.</p></article>
+      <article class="arkhe-card"><span class="arkhe-number">02 · BUILD CAPACITY</span><h3>Research Team Training</h3><p>Practical, project-oriented training that helps your team execute, interpret, and reproduce bioinformatics analyses independently.</p></article>
+      <article class="arkhe-card"><span class="arkhe-number">03 · COLLABORATE</span><h3>Research Partnerships</h3><p>Collaborative scientific projects combining computational expertise, biological interpretation, reproducible workflows, and knowledge transfer.</p></article>
     </div>
-    <p class="arkhe-section-action"><a class="arkhe-textlink" href="mailto:elarkhe@gmail.com?subject=Bioinformatics%20project%20inquiry">Discuss your project →</a></p>
+    <p class="arkhe-note"><strong>Our added value:</strong> Reproducibility · Verifiable knowledge transfer · Biological interpretation · Reusable workflows · Support in Spanish</p>
+    <p class="arkhe-section-action"><a class="arkhe-textlink" href="mailto:elarkhe@gmail.com?subject=Translational%20Research%20inquiry">Discuss your research needs →</a></p>
   </section>
 
   <!-- 03 · Arkhe Institutional: two commercial products -->
