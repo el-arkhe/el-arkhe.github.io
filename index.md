@@ -9,7 +9,7 @@ permalink: /
   <header class="arkhe-top">
     <a class="arkhe-wordmark" href="{{ '/' | relative_url }}" aria-label="Arkhe Multiomics home"><img src="{{ '/assets/images/arkhe-wordmark.png' | relative_url }}" alt="ARKHE" width="182" height="42"><span>MULTIOMICS</span></a>
     <nav aria-label="Homepage navigation">
-      <a href="#consulting">Consulting</a><a href="#institutional">Institutional Partnerships</a><a href="#expertise">Expertise</a><a href="#about">About</a><a href="#contact">Contact</a>
+      <a href="#consulting">Consulting</a><a href="#institutional">Academic Education &amp; Partnerships</a><a href="#expertise">Expertise</a><a href="#about">About</a><a href="#contact">Contact</a>
     </nav>
   </header>
 
