@@ -148,7 +148,7 @@
   },"21": {
     "doc": "Home",
     "title": "From complex omics data to meaningful biological insights",
-    "content": "Arkhe Multiomics provides specialized bioinformatics consulting, research partnerships, and scientific training in single-cell, spatial, and integrated multiomics for research teams, academic institutions, and biotech companies. Explore Research Services ↗ Academic Partnerships ↗ Tell us about your research, bioinformatics, or academic training needs. We'll explore how Arkhe can support your goals. Contact Arkhe → TRANSLATIONAL RESEARCH . ",
+    "content": "Arkhe Multiomics is a scientist-led initiative founded by Cynthia S. Cardinault, PhD. We combine expertise in computational biology, transcriptomics, epigenomics, and multiomics integration to support scientific research and specialized education. Through Translational Research and Academic Partnerships, we emphasize reproducible analysis, meaningful biological interpretation, and knowledge transfer. Explore Research Services ↗ Academic Partnerships ↗ Tell us about your research, bioinformatics, or academic training needs. We'll explore how Arkhe can support your goals. Contact Arkhe → TRANSLATIONAL RESEARCH . ",
     "url": "/#arkhe-hero-title",
     
     "relUrl": "/#arkhe-hero-title"
@@ -161,7 +161,7 @@
     "relUrl": "/#arkhe-consulting-title"
   },"23": {
     "doc": "Home",
-    "title": "Institutional Partnerships",
+    "title": "Academic Education &amp; Partnerships",
     "content": "Specialized multiomics education for academic program coordinators, graduate schools, and continuing education. Two ways to bring Arkhe courses to your institution. 01 · FULLY MANAGEDImmersive Courses → . Asynchronous courses hosted on Arkhe's platform, with access licenses, technical and academic support, annual maintenance, and grade management. 02 · SELF-MANAGEDSpecialized Course Content → . Specialized educational content for your institution's learning environment. Your team manages course delivery, learner support, assessments, and administration. Course content available in Spanish. Subject areas: scRNA-seq · scATAC-seq · Multiomics integration · Spatial transcriptomics . TECHNICAL EXPERTISE . ",
     "url": "/#arkhe-institutional-title",
     
@@ -190,7 +190,7 @@
   },"27": {
     "doc": "Home",
     "title": "Home",
-    "content": "MULTIOMICS ConsultingAcademic Education &amp; PartnershipsExpertiseAboutContact . TRANSLATIONAL RESEARCH · INSTITUTIONAL EDUCATION . ",
+    "content": "MULTIOMICS ConsultingAcademic PartnershipsExpertiseAboutContact . TRANSLATIONAL RESEARCH · INSTITUTIONAL EDUCATION . ",
     "url": "/",
     
     "relUrl": "/"
