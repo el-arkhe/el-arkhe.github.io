@@ -11,6 +11,18 @@
 .arkhe-v2 .arkhe-programs-intro { color:var(--arkhe-muted); margin:0 0 22px; }
 .arkhe-v2 .arkhe-contact .arkhe-button { background:var(--arkhe-teal); color:#101114; }
 .arkhe-v2 .arkhe-contact .arkhe-button:hover { background:var(--arkhe-accent); color:#fff; }
+/* Academic Partnerships — brand pink */
+.arkhe-v2 .arkhe-actions .arkhe-button.arkhe-button-pink {
+  background: #F73583 !important;
+  color: #fff !important;
+  border-color: #F73583 !important;
+}
+
+.arkhe-v2 .arkhe-actions .arkhe-button.arkhe-button-pink:hover {
+  background: #d91e6b !important;
+  border-color: #d91e6b !important;
+  color: #fff !important;
+}
 @media(max-width:760px) {
   .arkhe-v2 .arkhe-hero { padding-top:65px; padding-bottom:72px; }
   .arkhe-v2 .arkhe-section-intro { font-size:1rem; }

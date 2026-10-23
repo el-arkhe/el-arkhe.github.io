@@ -16,12 +16,20 @@ permalink: /
   <!-- 01 · Hero -->
   <section class="arkhe-hero" id="home" aria-labelledby="arkhe-hero-title">
     <p class="arkhe-eyebrow">TRANSLATIONAL RESEARCH · INSTITUTIONAL EDUCATION</p>
-    <h1 id="arkhe-hero-title">From complex omics data to meaningful biological insights.</h1>
-    <p class="arkhe-lead">Arkhe Multiomics is a research and education platform connecting computational analysis, scientific consulting, and specialized training in single-cell, spatial, and integrated multiomics.</p>
-    <div class="arkhe-actions">
-      <a class="arkhe-button" href="#consulting">Explore consulting <span aria-hidden="true">↗</span></a>
-      <a class="arkhe-textlink" href="#institutional">Institutional partnerships →</a>
-    </div>
+    <h1 id="arkhe-hero-title">From complex omics data to meaningful biological insights</h1>
+    <p class="arkhe-lead">Arkhe Multiomics provides specialized bioinformatics consulting, research partnerships, and scientific training in single-cell, spatial, and integrated multiomics for research teams, academic institutions, and biotech companies.</p>
+<div class="arkhe-actions">
+  <a class="arkhe-button" href="#consulting">
+    Explore Research Services <span aria-hidden="true">↗</span>
+  </a>
+  <a class="arkhe-button arkhe-button-pink" href="#institutional">
+    Academic Partnerships <span aria-hidden="true">↗</span>
+  </a>
+</div>
+    <p>Tell us about your research, bioinformatics, or academic training needs.<br> We'll explore how Arkhe can support your goals.</p>
+    <a class="arkhe-textlink" href="mailto:elarkhe@gmail.com?subject=Contact%20inquiry">
+      Contact Arkhe →
+    </a>
   </section>
 
   <!-- 02 · Translational Research -->
@@ -36,7 +44,6 @@ permalink: /
       <article class="arkhe-card"><span class="arkhe-number">03 · COLLABORATE</span><h3>Research Partnerships</h3><p>Collaborative scientific projects combining computational expertise, biological interpretation, reproducible workflows, and knowledge transfer.</p></article>
     </div>
     <p class="arkhe-note"><strong>Our added value:</strong> Reproducibility · Verifiable knowledge transfer · Biological interpretation · Reusable workflows · Support in Spanish</p>
-    <p class="arkhe-section-action"><a class="arkhe-textlink" href="mailto:elarkhe@gmail.com?subject=Translational%20Research%20inquiry">Discuss your research needs →</a></p>
   </section>
 
   <!-- 03 · Arkhe Institutional: two commercial products -->
@@ -50,7 +57,6 @@ permalink: /
     </div>
     <p class="arkhe-note"><strong>Course content available in Spanish.</strong></p>
     <p class="arkhe-note">Subject areas: scRNA-seq · scATAC-seq · Multiomics integration · Spatial transcriptomics</p>
-    <p class="arkhe-section-action"><a class="arkhe-textlink" href="mailto:elarkhe@gmail.com?subject=Institutional%20partnership%20inquiry">Discuss an institutional partnership →</a></p>
   </section>
 
   <!-- 04 · Expertise -->
@@ -70,7 +76,9 @@ permalink: /
   <!-- 05 · About -->
   <section id="about" class="arkhe-section arkhe-about arkhe-soft" aria-labelledby="arkhe-about-title">
     <div><p class="arkhe-eyebrow">ABOUT ARKHE</p><h2 id="arkhe-about-title">Research-driven. Methodologically rigorous.</h2></div>
-    <div><h3>Founded by Cynthia S. Cardinault, PhD</h3><p>Arkhe Multiomics is a scientist-led initiative grounded in computational biology, transcriptomics, epigenomics, and integrative analysis. We emphasize reproducibility, biologically meaningful interpretation, and accessible scientific education.</p><a class="arkhe-textlink" href="https://cyntsc.github.io/">Explore the founder's research background →</a></div>
+    <div><h3>Founded by Cynthia S. Cardinault, PhD</h3><p>Arkhe Multiomics is a scientist-led initiative founded by Cynthia S. Cardinault, PhD. We combine expertise in computational biology, transcriptomics, epigenomics, and multiomics integration to support scientific research and specialized education.
+
+Through Translational Research and Academic Partnerships, we emphasize reproducible analysis, meaningful biological interpretation, and knowledge transfer.</p><a class="arkhe-textlink" href="https://cyntsc.github.io/">Explore the founder's research background →</a></div>
   </section>
 
   <!-- 06 · Contact -->
