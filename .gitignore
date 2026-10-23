@@ -15,6 +15,5 @@ Gemfile.lock
 update_homepage.py
 arkhe-*.zip
 
-## files to migrate to the new website
-_site/talleres/*
+
 
