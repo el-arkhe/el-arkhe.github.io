@@ -38,24 +38,18 @@ permalink: /
     <p class="arkhe-section-action"><a class="arkhe-textlink" href="mailto:elarkhe@gmail.com?subject=Bioinformatics%20project%20inquiry">Discuss your project →</a></p>
   </section>
 
-  <!-- 03 · Institutional Partnerships: specialized training and featured programs -->
+  <!-- 03 · Arkhe Institutional: two commercial products -->
   <section id="institutional" class="arkhe-section arkhe-soft" aria-labelledby="arkhe-institutional-title">
-    <p class="arkhe-eyebrow">INSTITUTIONAL</p>
+    <p class="arkhe-eyebrow">ARKHE INSTITUTIONAL</p>
     <h2 id="arkhe-institutional-title">Institutional Partnerships</h2>
-    <p class="arkhe-section-intro">Specialized training for researchers, students, and scientific teams through practical workshops, intensive courses, and adaptable learning pathways in bioinformatics and omics data analysis.</p>
+    <p class="arkhe-section-intro">Specialized multiomics education for academic program coordinators, graduate schools, and continuing education. Two ways to bring Arkhe courses to your institution.</p>
     <div class="arkhe-grid arkhe-grid-2">
-      <article class="arkhe-card"><span class="arkhe-number">01</span><h3>
-  <a href="{{ '/hands-on-workshops/' | relative_url }}">
-    Hands-on workshops →
-  </a>
-</h3><p>Guided exercises that connect experimental data, computational tools, and biological interpretation.</p></article>
-      <article class="arkhe-card"><span class="arkhe-number">02</span><h3>
-  <a href="{{ '/specialized-learning-pathways/' | relative_url }}">
-    Specialized Learning pathways →
-  </a>
-</h3><p>Progressive training across single-cell transcriptomics, chromatin accessibility, multiomics integration, and spatial methods.</p></article>
+      <article class="arkhe-card"><span class="arkhe-number">01 · FULLY MANAGED</span><h3><a href="{{ '/hands-on-workshops/' | relative_url }}">Immersive Courses →</a></h3><p>Asynchronous courses hosted on Arkhe's platform, with access licenses, technical and academic support, annual maintenance, and grade management.</p></article>
+      <article class="arkhe-card"><span class="arkhe-number">02 · SELF-MANAGED</span><h3><a href="{{ '/specialized-learning-pathways/' | relative_url }}">Specialized Course Content →</a></h3><p>Specialized educational content for your institution's learning environment. Your team manages course delivery, learner support, assessments, and administration.</p></article>
     </div>
-    <p class="arkhe-section-action"><a class="arkhe-textlink" href="mailto:elarkhe@gmail.com?subject=Institutional%20training%20inquiry">Discuss institutional training →</a></p>
+    <p class="arkhe-note"><strong>Course content available in Spanish.</strong></p>
+    <p class="arkhe-note">Subject areas: scRNA-seq · scATAC-seq · Multiomics integration · Spatial transcriptomics</p>
+    <p class="arkhe-section-action"><a class="arkhe-textlink" href="mailto:elarkhe@gmail.com?subject=Institutional%20partnership%20inquiry">Discuss an institutional partnership →</a></p>
   </section>
 
   <!-- 04 · Expertise -->
