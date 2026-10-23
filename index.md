@@ -9,7 +9,7 @@ permalink: /
   <header class="arkhe-top">
     <a class="arkhe-wordmark" href="{{ '/' | relative_url }}" aria-label="Arkhe Multiomics home"><img src="{{ '/assets/images/arkhe-wordmark.png' | relative_url }}" alt="ARKHE" width="182" height="42"><span>MULTIOMICS</span></a>
     <nav aria-label="Homepage navigation">
-      <a href="#consulting">Consulting</a><a href="#institutional">Academic Education &amp; Partnerships</a><a href="#expertise">Expertise</a><a href="#about">About</a><a href="#contact">Contact</a>
+      <a href="#consulting">Consulting</a><a href="#institutional">Academic Partnerships</a><a href="#expertise">Expertise</a><a href="#about">About</a><a href="#contact">Contact</a>
     </nav>
   </header>
 
@@ -17,7 +17,17 @@ permalink: /
   <section class="arkhe-hero" id="home" aria-labelledby="arkhe-hero-title">
     <p class="arkhe-eyebrow">TRANSLATIONAL RESEARCH · INSTITUTIONAL EDUCATION</p>
     <h1 id="arkhe-hero-title">From complex omics data to meaningful biological insights</h1>
-    <p class="arkhe-lead">Arkhe Multiomics provides specialized bioinformatics consulting, research partnerships, and scientific training in single-cell, spatial, and integrated multiomics for research teams, academic institutions, and biotech companies.</p>
+<p>
+  Arkhe Multiomics is a scientist-led initiative founded by Cynthia S. Cardinault, PhD.
+  We combine expertise in computational biology, transcriptomics, epigenomics,
+  and multiomics integration to support scientific research and specialized education.
+</p>
+
+<p>
+  Through Translational Research and Academic Partnerships, we emphasize
+  reproducible analysis, meaningful biological interpretation, and knowledge transfer.
+</p>
+
 <div class="arkhe-actions">
   <a class="arkhe-button" href="#consulting">
     Explore Research Services <span aria-hidden="true">↗</span>
@@ -32,7 +42,6 @@ permalink: /
     </a>
   </section>
 
-  <!-- 02 · Translational Research -->
   <!-- 02 · Translational Research: three services -->
   <section id="consulting" class="arkhe-section" aria-labelledby="arkhe-consulting-title">
     <p class="arkhe-eyebrow">TRANSLATIONAL RESEARCH</p>
@@ -49,7 +58,7 @@ permalink: /
   <!-- 03 · Arkhe Institutional: two commercial products -->
   <section id="institutional" class="arkhe-section arkhe-soft" aria-labelledby="arkhe-institutional-title">
     <p class="arkhe-eyebrow">ARKHE INSTITUTIONAL</p>
-    <h2 id="arkhe-institutional-title">Institutional Partnerships</h2>
+    <h2 id="arkhe-institutional-title">Academic Education &amp; Partnerships</h2>
     <p class="arkhe-section-intro">Specialized multiomics education for academic program coordinators, graduate schools, and continuing education. Two ways to bring Arkhe courses to your institution.</p>
     <div class="arkhe-grid arkhe-grid-2">
       <article class="arkhe-card"><span class="arkhe-number">01 · FULLY MANAGED</span><h3><a href="{{ '/hands-on-workshops/' | relative_url }}">Immersive Courses →</a></h3><p>Asynchronous courses hosted on Arkhe's platform, with access licenses, technical and academic support, annual maintenance, and grade management.</p></article>
