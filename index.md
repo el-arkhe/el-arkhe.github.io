@@ -78,7 +78,7 @@ permalink: /
     <div><p class="arkhe-eyebrow">ABOUT ARKHE</p><h2 id="arkhe-about-title">Research-driven. Methodologically rigorous.</h2></div>
     <div><h3>Founded by Cynthia S. Cardinault, PhD</h3><p>Arkhe Multiomics is a scientist-led initiative founded by Cynthia S. Cardinault, PhD. We combine expertise in computational biology, transcriptomics, epigenomics, and multiomics integration to support scientific research and specialized education.
 
-Through Translational Research and Academic Partnerships, we emphasize reproducible analysis, meaningful biological interpretation, and knowledge transfer.</p><a class="arkhe-textlink" href="https://cyntsc.github.io/">Explore the founder's research background →</a></div>
+Through Translational Research and Academic Partnerships, we emphasize reproducible analysis, meaningful biological interpretation, and knowledge transfer.</p><a class="arkhe-textlink" href="{{ '/about-founder/' | relative_url }}">Explore the founder's research background →</a></div>
   </section>
 
   <!-- 06 · Contact -->
