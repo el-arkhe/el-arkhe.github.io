@@ -10,3 +10,11 @@ _site/talleres/
 ## exact gem versions used to build your website, helping ensure reproducible builds
 Gemfile.lock
 .ruby-version
+
+## Ignore temporal files - AI generated
+update_homepage.py
+arkhe-*.zip
+
+## files to migrate to the new website
+_site/talleres/*
+
