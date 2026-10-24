@@ -2,16 +2,27 @@ title: "Arkhe Multiomics"
 description: "Bioinformatics consulting, research partnerships, and specialized training in single-cell, spatial transcriptomics, and multiomics for research teams, academic institutions, and biotech companies."
 
 url: "https://elarkhe.github.io"
+baseurl: ""
 
 remote_theme: just-the-docs/just-the-docs
+
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 search_enabled: true
 nav_sort: case_insensitive
 
-logo: "/assets/img/banner_arkhe2.jpeg"
+# logo: "/assets/img/banner_arkhe2.jpeg"
 
 heading_anchors: true
 
 permalink: pretty
+
+exclude:
+  - talleres/
+  - institutional-section.html
+  - translational-section.html
+  - Gemfile
+  - Gemfile.lock
