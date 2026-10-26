@@ -20,6 +20,21 @@ heading_anchors: true
 
 permalink: pretty
 
+future: true
+
+# News & Events
+collections:
+  events:
+    output: true
+    permalink: /news-events/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: event
+
 exclude:
   - talleres/
   - institutional-section.html
