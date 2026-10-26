@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<div class="arkhe-events-page arkhe-event-detail">
+{% include arkhe-commercial-header.html %}
+
+  <nav class="arkhe-event-back" aria-label="Event navigation">
+    <a class="arkhe-textlink" href="{{ '/news-events/' | relative_url }}">
+      ← Back to News & Events
+    </a>
+  </nav>
+
+  <header class="arkhe-event-header">
+    <p class="arkhe-eyebrow">{{ page.category | escape }}</p>
+    <h1>{{ page.title | escape }}</h1>
+
+    <div class="arkhe-event-meta">
+      <p><strong>Date:</strong>
+        {{ page.date | date: "%B %d, %Y" }}
+        {% if page.end_date and page.end_date != page.date %}
+          – {{ page.end_date | date: "%B %d, %Y" }}
+        {% endif %}
+      </p>
+
+      {% if page.time %}
+        <p><strong>Time:</strong> {{ page.time | escape }}</p>
+      {% endif %}
+
+      {% if page.format %}
+        <p><strong>Format:</strong> {{ page.format | escape }}</p>
+      {% endif %}
+
+      {% if page.collaborator %}
+        <p><strong>In collaboration with:</strong> {{ page.collaborator | escape }}</p>
+      {% endif %}
+    </div>
+
+    {% assign today = site.time | date: "%Y-%m-%d" %}
+    {% assign end_date = page.end_date | default: page.date | date: "%Y-%m-%d" %}
+
+    {% if end_date < today %}
+      <p class="arkhe-event-status">Past Event</p>
+    {% elsif page.registration_status == "open" %}
+      <p class="arkhe-event-status">Registration Open</p>
+    {% else %}
+      <p class="arkhe-event-status">Upcoming Event</p>
+    {% endif %}
+
+    {% if page.image %}
+      <img class="arkhe-event-cover"
+           src="{{ page.image | relative_url }}"
+           alt="{{ page.title | escape }}"
+           loading="lazy">
+    {% endif %}
+  </header>
+
+  <div class="arkhe-event-description">
+    {{ content }}
+  </div>
+
+  {% if end_date >= today %}
+    {% if page.registration_status == "open" and page.registration_url != empty and page.registration_url != nil %}
+      <a class="arkhe-button"
+         href="{{ page.registration_url }}"
+         target="_blank"
+         rel="noopener noreferrer">
+        Register for this event →
+      </a>
+    {% elsif page.promotion_url %}
+      <a class="arkhe-textlink"
+         href="{{ page.promotion_url }}"
+         target="_blank"
+         rel="noopener noreferrer">
+        View event announcement →
+      </a>
+    {% endif %}
+  {% endif %}
+
+</div>

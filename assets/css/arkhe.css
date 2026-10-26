@@ -1,11 +1,14 @@
 /* Arkhe homepage: scoped to .arkhe-home, with layout adjustments only on that page */
 :root { --arkhe-ink:#101114; --arkhe-teal:#09bfc0; --arkhe-accent:#f73583; --arkhe-line:#dbeaea; --arkhe-muted:#495b60; --arkhe-pale:#f0fafa; }
-body:has(.arkhe-home) .side-bar { display:none; }
-body:has(.arkhe-home) .main { margin-left:0; max-width:none; }
-body:has(.arkhe-home) .main-header { display:none; }
-body:has(.arkhe-home) .main-content-wrap { max-width:none; padding:0; }
-body:has(.arkhe-home) .main-content { max-width:none; padding:0; margin:0; }
-body:has(.arkhe-home) .site-footer { display:none; }
+
+/* Commercial pages: hide Just the Docs navigation */
+body:has(.arkhe-home, .arkhe-events-page) .side-bar { display:none; }
+body:has(.arkhe-home, .arkhe-events-page) .main { margin-left:0; max-width:none; }
+body:has(.arkhe-home, .arkhe-events-page) .main-header { display:none; }
+body:has(.arkhe-home, .arkhe-events-page) .main-content-wrap { max-width:none; padding:0; }
+body:has(.arkhe-home, .arkhe-events-page) .main-content { max-width:none; padding:0; margin:0; }
+body:has(.arkhe-home, .arkhe-events-page) .site-footer { display:none; }
+
 .arkhe-home { color:var(--arkhe-ink); background:#fff; font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
 .arkhe-home * { box-sizing:border-box; }
 .arkhe-home a { color:var(--arkhe-teal); }
@@ -116,3 +119,205 @@ body:has(.arkhe-home) .site-footer { display:none; }
 .arkhe-home .arkhe-textlink:hover, .arkhe-top nav a:hover { color:var(--arkhe-accent); }
 .arkhe-contact .arkhe-button:hover { background:var(--arkhe-accent); color:#fff; }
 @media(max-width:460px) { .arkhe-wordmark img { width:145px; } .arkhe-home .arkhe-wordmark { gap:8px; font-size:.58rem; } }
+
+/* ==========================================
+   News & Events
+   ========================================== */
+
+.arkhe-events-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.arkhe-event-card {
+  overflow: hidden;
+  border: 1px solid var(--arkhe-line);
+  border-radius: 14px;
+  background: #fff;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.arkhe-event-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgba(16, 17, 20, 0.08);
+}
+
+.arkhe-event-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 5 / 3;
+  object-fit: cover;
+}
+
+.arkhe-event-content {
+  padding: 1.5rem;
+}
+
+.arkhe-event-content h3 {
+  margin: 0.5rem 0 0.75rem;
+  font-size: 1.15rem;
+  line-height: 1.4;
+}
+
+.arkhe-event-content > p:not(.arkhe-eyebrow) {
+  color: var(--arkhe-muted);
+}
+
+.arkhe-event-content .arkhe-textlink {
+  display: inline-block;
+  margin-top: 1rem;
+}
+
+@media (max-width: 960px) {
+  .arkhe-events-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 760px) {
+  .arkhe-events-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .arkhe-event-card {
+    transition: none;
+  }
+}
+
+\.arkhe-events-more {
+  margin-top: 1.75rem;
+}
+
+/* News & Events standalone page */
+.arkhe-events-page {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 64px 32px 96px;
+  color: var(--arkhe-ink);
+}
+
+.arkhe-events-page h1 {
+  font-size: clamp(2.4rem, 5vw, 3.5rem);
+  margin-bottom: 1rem;
+}
+
+.arkhe-events-page h2 {
+  margin: 3rem 0 1.5rem;
+  font-size: clamp(1.7rem, 3vw, 2.2rem);
+}
+
+@media (max-width: 760px) {
+  .arkhe-events-page {
+    padding: 40px 24px 64px;
+  }
+}
+
+
+/* ==========================================
+   Individual event pages
+   ========================================== */
+
+.arkhe-event-detail {
+  max-width: 900px;
+}
+
+.arkhe-event-back {
+  margin-bottom: 2.5rem;
+}
+
+.arkhe-event-header h1 {
+  font-size: clamp(2rem, 4vw, 3.25rem);
+  line-height: 1.2;
+  margin: 0.75rem 0 1.5rem;
+}
+
+.arkhe-event-meta {
+  display: grid;
+  gap: 0.35rem;
+  margin-bottom: 1.5rem;
+  color: var(--arkhe-muted);
+}
+
+.arkhe-event-meta p {
+  margin: 0;
+}
+
+.arkhe-event-status {
+  display: inline-block;
+  padding: 0.45rem 0.85rem;
+  border: 1px solid var(--arkhe-line);
+  border-radius: 5px;
+  font-size: 0.8rem;
+  font-weight: 650;
+  margin-bottom: 2rem;
+}
+
+.arkhe-event-cover {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
+
+.arkhe-event-description {
+  margin: 1.5rem 0 2rem;
+  line-height: 1.8;
+}
+
+.arkhe-event-description h2,
+.arkhe-event-description h3 {
+  margin-top: 2rem;
+}
+
+
+/* Commercial navigation for News & Events */
+
+.arkhe-commercial-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  padding-bottom: 2rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--arkhe-line);
+}
+
+.arkhe-commercial-brand img {
+  display: block;
+  width: 175px;
+  height: auto;
+}
+
+.arkhe-commercial-header nav {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.arkhe-commercial-header nav a {
+  color: var(--arkhe-ink);
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.arkhe-commercial-header nav a:hover {
+  color: var(--arkhe-accent);
+}
+
+@media (max-width: 760px) {
+  .arkhe-commercial-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.25rem;
+  }
+
+  .arkhe-commercial-header nav {
+    gap: 0.75rem 1.25rem;
+  }
+}
