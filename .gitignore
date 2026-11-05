@@ -4,7 +4,9 @@
 .Rhistory
 el-arkhe.github.io.Rproj
 /tools/postcards/jolla/index.html
-_site/talleres/
+
+# Jekyll generated site - local test
+_site/
 
 ## Jekyll project deployed through GitHub Pages
 ## exact gem versions used to build your website, helping ensure reproducible builds

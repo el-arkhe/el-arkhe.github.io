@@ -2,6 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
+lang: en
 permalink: /
 ---
 
@@ -11,6 +12,9 @@ permalink: /
     <nav aria-label="Homepage navigation">
       <a href="#consulting">Consulting</a><a href="#institutional">Academic Partnerships</a><a href="#expertise">Expertise</a><a href="#news-events">News & Events</a><a href="#about">About</a><a href="#contact">Contact</a>
     </nav>
+
+    {% include arkhe-language-switcher.html %}
+
   </header>
 
   <!-- 01 · Hero -->

@@ -1,0 +1,10 @@
+
+<div class="arkhe-language-switcher" aria-label="Select language">
+  <a href="{{ '/' | relative_url }}"
+     lang="en"
+     {% if page.lang == 'en' %}class="is-active" aria-current="page"{% endif %}>EN</a>
+  <span aria-hidden="true">|</span>
+  <a href="{{ '/es/' | relative_url }}"
+     lang="es"
+     {% if page.lang == 'es' %}class="is-active" aria-current="page"{% endif %}>ES</a>
+</div>

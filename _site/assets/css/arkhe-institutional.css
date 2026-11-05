@@ -1,7 +1,0 @@
-/* Shared, minimal landing-page adjustments; relies on existing arkhe.css and arkhe-v2.css. */
-.arkhe-landing .arkhe-hero { padding-top:76px; padding-bottom:82px; }
-.arkhe-landing .arkhe-home a { text-decoration:none; }
-.arkhe-landing .arkhe-card h3 { margin-top:12px; }
-.arkhe-landing .arkhe-card { height:100%; }
-.arkhe-landing .arkhe-footer a { text-decoration:none; }
-@media(max-width:760px) { .arkhe-landing .arkhe-hero { padding-top:52px; padding-bottom:58px; } }

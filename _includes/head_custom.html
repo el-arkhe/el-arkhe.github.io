@@ -1,2 +1,21 @@
 <link rel="stylesheet" href="{{ '/assets/css/arkhe.css' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/arkhe-v2.css' | relative_url }}">
+
+{% if page.lang %}
+<script>
+  document.documentElement.lang = {{ page.lang | jsonify }};
+</script>
+{% endif %}
+
+{% if page.url == '/' or page.url == '/es/' %}
+  <link rel="alternate"
+        hreflang="en"
+        href="{{ '/' | absolute_url }}">
+  <link rel="alternate"
+        hreflang="es"
+        href="{{ '/es/' | absolute_url }}">
+  <link rel="alternate"
+        hreflang="x-default"
+        href="{{ '/' | absolute_url }}">
+{% endif %}
+
